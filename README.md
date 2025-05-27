@@ -7,9 +7,17 @@
 
 <h3 align= "center">Inks</h3>
 
-<img src="https://github.com/user-attachments/assets/f3d42e93-f739-4b48-adee-14fa2f534e29" width="45%"></img> <img src="https://github.com/user-attachments/assets/0f765411-a9ac-4ae2-8f47-745021b52e08" width="45%"></img> <img src="https://github.com/user-attachments/assets/c20b14c3-26ad-4426-ba3e-bc641e1675c9" width="45%"></img> <img src="https://github.com/user-attachments/assets/8e690b4b-a4e9-4b6e-87ca-a36aacabf384" width="45%"></img> 
+<img src="https://github.com/user-attachments/assets/f3d42e93-f739-4b48-adee-14fa2f534e29" width="45%"> <img src="https://github.com/user-attachments/assets/0f765411-a9ac-4ae2-8f47-745021b52e08" width="45%"> <img src="https://github.com/user-attachments/assets/c20b14c3-26ad-4426-ba3e-bc641e1675c9" width="45%"> <img src="https://github.com/user-attachments/assets/8e690b4b-a4e9-4b6e-87ca-a36aacabf384" width="45%">
 
 <h3 align= "center">Studies</h3>
 
-<img src="https://github.com/user-attachments/assets/9806ff71-39c1-44df-85b5-09408e160ad1" width="45%"></img> <img src="https://github.com/user-attachments/assets/bd60808c-1d0f-460e-8acb-0aabdf280412" width="45%"></img> <img src="https://github.com/user-attachments/assets/e511ebe7-b66b-4e7e-b2e4-879284774451" width="45%"></img> <img src="https://github.com/user-attachments/assets/3a75fba5-c961-4f21-8c74-b24b220ef054" width="45%"></img> <img src="https://github.com/user-attachments/assets/46930216-7aae-4347-8de1-9c825e05ba27" width="45%"></img> <img src="https://github.com/user-attachments/assets/7bd75c98-cefc-4ba7-a7da-547b759119c2" width="45%"></img> <img src="https://github.com/user-attachments/assets/4d314578-6928-4347-85e1-a7b213331dac" width="45%"></img> 
+<img src="https://github.com/user-attachments/assets/9806ff71-39c1-44df-85b5-09408e160ad1" width="45%"><img src="https://github.com/user-attachments/assets/bd60808c-1d0f-460e-8acb-0aabdf280412" width="45%"> <img src="https://github.com/user-attachments/assets/e511ebe7-b66b-4e7e-b2e4-879284774451" width="45%"> <img src="https://github.com/user-attachments/assets/3a75fba5-c961-4f21-8c74-b24b220ef054" width="45%"> <img src="https://github.com/user-attachments/assets/46930216-7aae-4347-8de1-9c825e05ba27" width="45%"> <img src="https://github.com/user-attachments/assets/7bd75c98-cefc-4ba7-a7da-547b759119c2" width="45%"> <img src="https://github.com/user-attachments/assets/4d314578-6928-4347-85e1-a7b213331dac" width="45%"> 
 
+<h3 align= "center">About Me</h3>
+<p align="center"> Hello, my name is Ian and I am 26 years old. With 15 years of experience, I love to oil paint. I was trained in landscape painting as a kid, when I turned 22 I began studying the human physique and incorporating it into my paintings. My inspiration comes from being a long time science fiction fan. I also pull inspiration from my dreams. 
+
+<h3 align= "center">Sales</h3>
+<p align="center"> While most of my works are for sale, I have not set the ability to purchase on this website. If you are interested in purchasing please email me. I take commission requests, simply email me with a price you are willing to pay and we can get something going, time to completion can vary from 1-3 months. I prefer commissions as I believe some of my best works come from these requests. 
+
+  <h3 align= "center">Contact Me</h3>
+<p align="center"> Email: viorelliann@gmail.com 
