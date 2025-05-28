@@ -61,6 +61,7 @@ body {
     <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
   </div>
 
+<h3 align= "center">Inks</h3>
 
 </style>
 </head>
@@ -90,8 +91,6 @@ body {
 <body>
 </div>
 
-<h3 align= "center">Inks</h3>
-
 <div class="row">
   <div class="column">
       <img src="https://github.com/user-attachments/assets/c20b14c3-26ad-4426-ba3e-bc641e1675c9">  
@@ -114,7 +113,54 @@ body {
 
 <h3 align= "center">Studies</h3>
 
-<img src="https://github.com/user-attachments/assets/9806ff71-39c1-44df-85b5-09408e160ad1" width="45%"><img src="https://github.com/user-attachments/assets/bd60808c-1d0f-460e-8acb-0aabdf280412" width="45%"> <img src="https://github.com/user-attachments/assets/e511ebe7-b66b-4e7e-b2e4-879284774451" width="45%"> <img src="https://github.com/user-attachments/assets/3a75fba5-c961-4f21-8c74-b24b220ef054" width="45%"> <img src="https://github.com/user-attachments/assets/46930216-7aae-4347-8de1-9c825e05ba27" width="45%"> <img src="https://github.com/user-attachments/assets/7bd75c98-cefc-4ba7-a7da-547b759119c2" width="45%"> <img src="https://github.com/user-attachments/assets/4d314578-6928-4347-85e1-a7b213331dac" width="45%"> 
+</style>
+</head>
+<body> 
+<style>
+* {
+  box-sizing: border-box;}
+body {
+  margin: 0;
+  font-family: Arial;}
+.header {
+  text-align: center;
+  padding: 32px;}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 30%;
+  padding: 10px;}
+.column img {
+  margin-top: 12;}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;}
+</style>
+<body>
+</div>
+
+<div class="row">
+  <div class="column">
+      <img src="https://github.com/user-attachments/assets/9806ff71-39c1-44df-85b5-09408e160ad1">
+      <img src="https://github.com/user-attachments/assets/bd60808c-1d0f-460e-8acb-0aabdf280412">
+      <img src="https://github.com/user-attachments/assets/4d314578-6928-4347-85e1-a7b213331dac">
+    
+  </div>
+  <div class="column">
+    <img src="https://github.com/user-attachments/assets/e511ebe7-b66b-4e7e-b2e4-879284774451">
+    <img src="https://github.com/user-attachments/assets/3a75fba5-c961-4f21-8c74-b24b220ef054">
+    
+ 
+  </div>
+  <div class="column">
+    <img src="https://github.com/user-attachments/assets/46930216-7aae-4347-8de1-9c825e05ba27">
+    <img src="https://github.com/user-attachments/assets/7bd75c98-cefc-4ba7-a7da-547b759119c2">
+
+  </div>
+</div>
+
 
 <h3 align= "center">About Me</h3>
 <p align="center"> Hello, my name is Ian and I am 26 years old. With 15 years of experience, I love to oil paint. I was trained in landscape painting as a kid, when I turned 22 I began studying the human physique and incorporating it into my paintings. My inspiration comes from being a long time science fiction fan. I also pull inspiration from my dreams. 
