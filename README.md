@@ -107,11 +107,55 @@ body {
 </body>
 </html>
 
-
+</style>
+</head>
+<body> 
+<style>
+* {
+  box-sizing: border-box;}
+body {
+  margin: 0;
+  font-family: Arial;}
+.header {
+  text-align: center;
+  padding: 32px;}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;}
+.column img {
+  margin-top: 12;}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;}
+</style>
+<body>
+</div>
 
 <h3 align= "center">Inks</h3>
 
-<img src="https://github.com/user-attachments/assets/c20b14c3-26ad-4426-ba3e-bc641e1675c9" width="45%"> <img src="https://github.com/user-attachments/assets/8e690b4b-a4e9-4b6e-87ca-a36aacabf384" width="45%"> <img src="https://github.com/user-attachments/assets/0f765411-a9ac-4ae2-8f47-745021b52e08" width="45%"> <img src="https://github.com/user-attachments/assets/f3d42e93-f739-4b48-adee-14fa2f534e29" width="45%">
+<div class="row">
+  <div class="column">
+      <img src="https://github.com/user-attachments/assets/c20b14c3-26ad-4426-ba3e-bc641e1675c9">  
+      <img src="https://github.com/user-attachments/assets/8e690b4b-a4e9-4b6e-87ca-a36aacabf384">
+    
+  </div>
+  <div class="column">
+    <img src="https://github.com/user-attachments/assets/0f765411-a9ac-4ae2-8f47-745021b52e08">
+    
+ 
+  </div>
+  <div class="column">
+    <img src="https://github.com/user-attachments/assets/f3d42e93-f739-4b48-adee-14fa2f534e29">
+
+  </div>
+</div>
+
+</body>
+</html>
 
 <h3 align= "center">Studies</h3>
 
