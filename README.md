@@ -1,7 +1,53 @@
 <h3 align="center">Ian Viorell Ward</h3>
 <p align="center"> Artist 
 <h3 align= "center">Paintings</h3>
-  
+ 
+
+#Image hovering settings
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  width: 50%;
+}
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.container:hover .image {
+  opacity: 0.3;
+}
+.container:hover .middle {
+  opacity: 1;
+}
+.text {
+  background-color: #04AA6D;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+  #Gallery style and alignment 
+
+</style>
+</head>
+<body> 
 <style>
 * {
   box-sizing: border-box;}
@@ -29,11 +75,14 @@ body {
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
-    <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
-    <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
-    <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
-    <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
-    <img src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5" >
+    <div class="container">
+      <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" class="image" style="width:100%">
+        <div class="middle">
+          <div class="text">M&M</div>
+      <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
+      <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
+      <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
+      <img src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5" >
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
@@ -54,6 +103,8 @@ body {
     <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
   </div>
 </div>
+
+
 
 </body>
 </html>
