@@ -2,9 +2,6 @@
 <p align="center"> Artist 
 <h3 align= "center">Paintings</h3>
  
-
-</style>
-</head>
 <body> 
 <style>
 * {
@@ -29,7 +26,6 @@ body {
   clear: both;}
 </style>
 <body>
-</div>
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
@@ -57,8 +53,6 @@ body {
     <img src="https://github.com/user-attachments/assets/d381b335-bb8b-4b56-9ea5-0615894e4d21" >
     <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
   </div>
-
-  </body>
 
 
 <h3 align= "center">Inks</h3>
