@@ -3,9 +3,6 @@
 <h3 align= "center">Paintings</h3>
  
 
-
-  #Gallery style and alignment 
-
 </style>
 </head>
 <body> 
@@ -61,10 +58,11 @@ body {
     <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
   </div>
 
+  </body>
+
+
 <h3 align= "center">Inks</h3>
 
-</style>
-</head>
 <body> 
 <style>
 * {
@@ -89,7 +87,7 @@ body {
   clear: both;}
 </style>
 <body>
-</div>
+
 
 <div class="row">
   <div class="column">
@@ -113,8 +111,7 @@ body {
 
 <h3 align= "center">Studies</h3>
 
-</style>
-</head>
+
 <body> 
 <style>
 * {
@@ -139,7 +136,6 @@ body {
   clear: both;}
 </style>
 <body>
-</div>
 
 <div class="row">
   <div class="column">
