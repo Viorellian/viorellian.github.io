@@ -3,46 +3,6 @@
 <h3 align= "center">Paintings</h3>
  
 
-/* Image hovering settings */
-
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.container {
-  position: relative;
-  width: 50%;
-}
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
-}
-.container:hover .image {
-  opacity: 0.3;
-}
-.container:hover .middle {
-  opacity: 1;
-}
-.text {
-  background-color: #04AA6D;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
-}
 
   #Gallery style and alignment 
 
@@ -100,12 +60,7 @@ body {
     <img src="https://github.com/user-attachments/assets/d381b335-bb8b-4b56-9ea5-0615894e4d21" >
     <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
   </div>
-</div>
 
-
-
-</body>
-</html>
 
 </style>
 </head>
@@ -122,7 +77,7 @@ body {
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 30%;
   padding: 10px;}
 .column img {
   margin-top: 12;}
@@ -155,7 +110,7 @@ body {
 </div>
 
 </body>
-</html>
+
 
 <h3 align= "center">Studies</h3>
 
