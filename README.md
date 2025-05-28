@@ -53,6 +53,9 @@ body {
     <img src="https://github.com/user-attachments/assets/d381b335-bb8b-4b56-9ea5-0615894e4d21" >
     <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
   </div>
+</div>
+
+</body>
 
 
 <h3 align= "center">Inks</h3>
@@ -87,12 +90,9 @@ body {
   <div class="column">
       <img src="https://github.com/user-attachments/assets/c20b14c3-26ad-4426-ba3e-bc641e1675c9">  
       <img src="https://github.com/user-attachments/assets/8e690b4b-a4e9-4b6e-87ca-a36aacabf384">
-    
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/0f765411-a9ac-4ae2-8f47-745021b52e08">
-    
- 
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/f3d42e93-f739-4b48-adee-14fa2f534e29">
