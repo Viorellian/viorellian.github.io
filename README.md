@@ -2,8 +2,6 @@
 <p align="center"> Artist 
 <h3 align= "center">Paintings</h3>
   
-<!DOCTYPE html>
-<html>
 <style>
 * {
   box-sizing: border-box;}
@@ -36,8 +34,6 @@ body {
     <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
     <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
     <img src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5" >
-    <img src="https://github.com/user-attachments/assets/42018ee3-cdb4-40b6-b6ea-8d5c2205d062" >
-    <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
@@ -46,6 +42,7 @@ body {
     <img src="https://github.com/user-attachments/assets/87770f4f-9a3d-4efd-a4eb-235a0d717731" >
     <img src="https://github.com/user-attachments/assets/ab2fb400-7138-4233-a76c-d73f75a08d09" >
     <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
+     <img src="https://github.com/user-attachments/assets/42018ee3-cdb4-40b6-b6ea-8d5c2205d062" >
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/bab3c1e0-7253-4abe-9ba2-cc0bb25dac03" >
@@ -54,6 +51,7 @@ body {
     <img src="https://github.com/user-attachments/assets/09d64ad4-b444-4432-aec0-94fcc203d429" >
     <img src="https://github.com/user-attachments/assets/eb2796b1-6bf9-4526-b902-56126b92ca74" >
     <img src="https://github.com/user-attachments/assets/d381b335-bb8b-4b56-9ea5-0615894e4d21" >
+    <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
   </div>
 </div>
 
