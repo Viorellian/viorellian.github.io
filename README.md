@@ -75,8 +75,8 @@ body {
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
-    <div class="container">
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" class="image" style="width:100%">
+       <div class="container">
         <div class="middle">
           <div class="text">M&M</div>
       <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
