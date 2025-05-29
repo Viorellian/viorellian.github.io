@@ -1,4 +1,4 @@
-]<h3 align="center">Ian Viorell Ward</h3>
+<h3 align="center">Ian Viorell Ward</h3>
 <p align="center"> Artist 
 <h3 align= "center">Paintings</h3>
  
