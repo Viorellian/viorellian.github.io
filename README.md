@@ -1,6 +1,4 @@
-<h3 align="center">Ian Viorell Ward</h3>
-<p align="center"> Artist 
-<h3 align= "center">Paintings</h3>
+
  
 <body> 
 <style>
@@ -8,10 +6,10 @@
   box-sizing: border-box;}
 body {
   margin: 0;
-  font-family: Arial;}
+  font-family: Times New Roman;}
 .header {
   text-align: center;
-  padding: 16px;}
+  padding: 5px;}
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
@@ -24,10 +22,12 @@ body {
   content: "";
   display: table;
   clear: both;}
-  
 
-<body>
-</style>
+<h3 align="center">Ian Viorell Ward</h3>
+<p align="center"> Artist 
+<h3 align= "center">Paintings</h3>
+
+
 <body>
 <!-- Photo Grid -->
 <div class="row">
