@@ -24,8 +24,7 @@ body {
   content: "";
   display: table;
   clear: both;}
-
-
+</style>
 <body>
 <!-- Photo Grid -->
 <div class="row">
