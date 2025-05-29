@@ -32,8 +32,7 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
-</style>
-</head>
+
 <body>
 
 
