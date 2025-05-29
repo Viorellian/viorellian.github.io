@@ -1,4 +1,6 @@
-
+<h3 align="center">Ian Viorell Ward</h3>
+<p align="center"> Artist 
+<h3 align= "center">Paintings</h3>
  
 <body> 
 <style>
@@ -23,20 +25,15 @@ body {
   display: table;
   clear: both;}
 
-<h3 align="center">Ian Viorell Ward</h3>
-<p align="center"> Artist 
-<h3 align= "center">Paintings</h3>
-
 
 <body>
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
-   <div class="header">Bernabei's 2025</div>
+      <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
+    <div class="header">Bernabei's 2025</div>
     <div class="header">Oil on Wood, 24" x 24"</div>
     <div class="header">Sold</div>
-      <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
-   <div class="header">BernaBei's 2025 24 x 24 Oil on Wood Sold</div>
       <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
       <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
       <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
