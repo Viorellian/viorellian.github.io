@@ -54,9 +54,8 @@ div.desc {
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
-   <div class="gallery">
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >  
-    </a>
+   <div class="gallery">
     <div class="desc">Test</div>
       <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
       <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
