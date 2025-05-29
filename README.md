@@ -30,7 +30,7 @@ body {
 }
 div.desc {
   padding: 15px;
-  text-align: center;
+  text-align: right;
 }
 
 <body>
