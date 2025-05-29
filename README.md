@@ -11,14 +11,14 @@ body {
   font-family: Times New Roman;}
 .header {
   text-align: center;
-  padding: 5px;}
+  padding: 1px;}
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
   width: 30%;
   padding: 10px;}
 .column img {
-  margin-top: 12;}
+  margin-top: 1;}
 /* Clear floats after the columns */
 .row:after {
   content: "";
