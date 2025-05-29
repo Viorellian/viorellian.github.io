@@ -24,12 +24,36 @@ body {
   content: "";
   display: table;
   clear: both;}
+div.gallery {
+  border: 1px solid #ccc;
+  }
+div.gallery:hover {
+  border: 1px solid #777;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+
+
 </style>
 <body>
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >  
+    </a>
+    <div class="desc">Test</div>
       <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
       <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
       <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
