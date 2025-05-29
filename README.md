@@ -32,7 +32,9 @@ body {
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
-   <div class="header">BernaBei's 2025 24 x 24 Oil on Wood Sold</div>
+   <div class="header">BernaBei's 2025 
+    Oil on Wood, 24" x 24" 
+    Sold</div>
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
    <div class="header">BernaBei's 2025 24 x 24 Oil on Wood Sold</div>
       <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
