@@ -24,9 +24,6 @@ body {
   content: "";
   display: table;
   clear: both;}
-<html>
-<head>
-<style>
 }
 div.desc {
   padding: 15px;
@@ -34,8 +31,6 @@ div.desc {
 }
 
 <body>
-
-
 </style>
 <body>
 <!-- Photo Grid -->
