@@ -1,4 +1,4 @@
-<h3 align="center">Ian Viorell Ward</h3>
+]<h3 align="center">Ian Viorell Ward</h3>
 <p align="center"> Artist 
 <h3 align= "center">Paintings</h3>
  
@@ -24,6 +24,9 @@ body {
   content: "";
   display: table;
   clear: both;}
+<html>
+<head>
+<style>
 div.gallery {
   border: 1px solid #ccc;
   }
@@ -51,6 +54,7 @@ div.desc {
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
+   <div class="gallery">
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >  
     </a>
     <div class="desc">Test</div>
