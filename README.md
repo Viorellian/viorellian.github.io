@@ -1,17 +1,35 @@
-<h3 align="center">Ian Viorell Ward</h3>
+ <body> 
+<style>
+.desc {
+ text-align: center;
+ font-size: 25px;
+font-style: Bold;
+}
+ </style>
+<body>
+ 
+<p class= desc>Ian Viorell Ward
 
 <body> 
 <style>
 .desc {
  text-align: center;
- font-size: 10px;
+ font-size: 12px;
 font-style: italic;
 }
  </style>
 <body>
 <p class= desc> Artist 
-   </div>
-</div>
+  
+ <body> 
+<style>
+.desc {
+ text-align: center;
+ font-size: 20px;
+font-style: italic;
+}
+ </style>
+<body>
  
 <h3 align= "center">Paintings</h3>
  
