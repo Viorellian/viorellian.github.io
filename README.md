@@ -3,7 +3,7 @@
 .desc1 {
  text-align: center;
  font-size: 30px;
-font-style: Garamond, serif, italic;
+font-style: bold;
 }
  </style>
 <body>
@@ -14,8 +14,8 @@ font-style: Garamond, serif, italic;
 <style>
 .desc2 {
  text-align: center;
- font-size: 12px;
-font-style: Garamond;
+ font-size: 13px;
+font-style: Bold;
 }
  </style>
 <body>
@@ -26,7 +26,7 @@ font-style: Garamond;
 .desc3 {
  text-align: center;
  font-size: 20px;
-font-style: Garamond;
+font-style: italic;
 }
  </style>
 <body>
@@ -222,17 +222,49 @@ body {
   </div>
 </div>
 
-
-<h3 align= "center">About Me</h3>
+ <body> 
+<style>
+.desc4 {
+ text-align: center;
+ font-size: 20px;
+font-style: italic;
+}
+ </style>
+<body>
+ 
+<p class= desc4>About Me
+ 
 <p align="center"> Hello, my name is Ian and I am 26 years old. With 15 years of experience, I love to oil paint. I was trained in landscape painting as a kid, when I turned 22 I began studying the human physique and incorporating it into my paintings. My inspiration comes from being a long time science fiction fan. I also pull inspiration from my dreams. 
 
-<h3 align= "center">Purchasing Details</h3>
+ <body> 
+<style>
+.desc5 {
+ text-align: center;
+ font-size: 20px;
+font-style: italic;
+}
+ </style>
+<body>
+ 
+<p class= desc5>Purchasing Details
+ 
 <p align="center">  You are in the right place! Please read these details before contacting.
 <p align="left">FRAMING: All peices are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
 <p align="left"> SHIPPING: If you are located in LA or OC (United States), I am able to personally deliver free of charge. All other locales will be charged shipping at cost. 
 <p align="left"> SALES: While most of my works are for sale, I have not set the ability to purchase on this website. Over email, phone or in person; I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). Any safe validated payment platforms are okay. If interested please email me.
 
-<h3 align= "center">Requesting a Commission</h3>
+ <body> 
+<style>
+.desc6 {
+ text-align: center;
+ font-size: 20px;
+font-style: italic;
+}
+ </style>
+<body>
+ 
+<p class= desc6>Requesting a Commission
+ 
 <p align="center"> Please email me with the following information:
 <p align="left"> 1. Size; Small (<10"), Medium (<18"), Large (<28")
 <p align="left"> 2. Completion date , S = 1mo., M = 1-2mo., L = 3-4mo.
