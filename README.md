@@ -26,7 +26,7 @@ body {
   clear: both;}
 .desc {
  text-align: center;
- font-size: 1px;}
+ font-size: 10px;}
 
 </style>
 <body>
