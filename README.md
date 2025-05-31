@@ -3,7 +3,7 @@
 .desc1 {
  text-align: center;
  font-size: 30px;
-font-style: Garamond;
+font-style: Garamond, serif, italic;
 }
  </style>
 <body>
