@@ -25,8 +25,8 @@ font-style: Bold;
 <style>
 .desc3 {
  text-align: center;
- font-size: 20px;
-font-style: italic;
+ font-size: 23px;
+font-style: italic, bold;
 }
  </style>
 <body>
