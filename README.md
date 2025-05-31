@@ -1,6 +1,19 @@
 <h3 align="center">Ian Viorell Ward</h3>
-<p align="center"> Artist 
-<h3 align= "center">*Paintings*</h3>
+
+<body> 
+<style>
+.desc {
+ text-align: center;
+ font-size: 10px;
+font-style: italic;
+}
+ </style>
+<body>
+<p class= desc> Artist 
+   </div>
+</div>
+ 
+<h3 align= "center">Paintings</h3>
  
 <body> 
 <style>
