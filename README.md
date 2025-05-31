@@ -1,6 +1,12 @@
+<body>
+ <style>
+  *{
+{font-style: georgia
+}
+
 <h3 align="center">Ian Viorell Ward</h3>
 <p align="center"> Artist 
-<h3 align= "center">Paintings</h3>
+<h3 align= "center", font-style= itlic>Paintings</h3>
  
 <body> 
 <style>
@@ -8,7 +14,7 @@
   box-sizing: border-box;}
 body {
   margin: 0;
-  font-family: Arial;}
+  font-family: Georgia;}
 .header {
   text-align: center;
   padding: 1px;}
