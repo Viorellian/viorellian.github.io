@@ -51,12 +51,26 @@ body {
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
+   <div class="desc">Lovely Language</div>
+   <div class="desc">Oil on Canvas, 22" x 28", $1200 </div>
     <img src="https://github.com/user-attachments/assets/198384df-99aa-43c7-9b92-523253ea9f57" >
+   <div class="desc">Entanglement</div>
+   <div class="desc">Oil on Canvas, 11" x 14", $180 </div>
     <img src="https://github.com/user-attachments/assets/07205f6f-ece7-469a-8740-91330366ba31" >
+   <div class="desc">Mushroom Samba</div>
+   <div class="desc">Oil on Canvas, matted and framed in white, 9" x 12", $700 </div>
     <img src="https://github.com/user-attachments/assets/87770f4f-9a3d-4efd-a4eb-235a0d717731" >
+   <div class="desc">Connected</div>
+   <div class="desc">Oil on Canvas, 16" x 20", Commissioned </div>
     <img src="https://github.com/user-attachments/assets/ab2fb400-7138-4233-a76c-d73f75a08d09" >
+   <div class="desc">Superficial Understanding</div>
+   <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $1050  </div>
     <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
+   <div class="desc">Of course I still Love You</div>
+   <div class="desc">Oil on Canvas, 8" x 10", Sold </div>
      <img src="https://github.com/user-attachments/assets/42018ee3-cdb4-40b6-b6ea-8d5c2205d062" >
+    <div class="desc">Sweet Escape</div>
+    <div class="desc">Oil on Canvas, 22" x 28", $1050 </div>
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/bab3c1e0-7253-4abe-9ba2-cc0bb25dac03" >
