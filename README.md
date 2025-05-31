@@ -1,37 +1,36 @@
  <body> 
 <style>
-.desc {
+.desc1 {
  text-align: center;
- font-size: 25px;
+ font-size: 30px;
 font-style: Bold;
 }
  </style>
 <body>
  
-<p class= desc>Ian Viorell Ward
+<p class= desc1>Ian Viorell Ward
 
 <body> 
 <style>
-.desc {
+.desc2 {
  text-align: center;
  font-size: 12px;
 font-style: italic;
 }
  </style>
 <body>
-<p class= desc> Artist 
+<p class= desc2> Artist 
   
  <body> 
 <style>
-.desc {
+.desc3 {
  text-align: center;
  font-size: 20px;
 font-style: italic;
 }
  </style>
 <body>
- 
-<h3 align= "center">Paintings</h3>
+<p class= desc3>Paintings
  
 <body> 
 <style>
