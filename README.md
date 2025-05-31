@@ -8,7 +8,7 @@
   box-sizing: border-box;}
 body {
   margin: 0;
-  font-family: Times New Roman;}
+  font-family: Arial;}
 .header {
   text-align: center;
   padding: 1px;}
