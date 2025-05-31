@@ -204,7 +204,7 @@ body {
 
 <h3 align= "center">Requesting a Commission</h3>
 <p align="center"> Please email me with the following information:
-<p align="left"> 1. Size small(<10"), Meddium(<18"), large(<28")
+<p align="left"> 1. Size Small(<10"), Medium(<18"), Large(<28")
 <p align="left"> 2. Completion date , S = 1mo., M = 1-2mo., L = 3-4mo.
 <p align="left"> 3. Description of your interest; can be a reference image, famous painting, your own idea, your own theme, a request for emulation or combination of my previous works, etc. 
 <p align="left"> 4. Your budget or anticipated cost for the painting only. Please use the prices here for reference; S = $30-250, M = $125-500, L = $400-1200 
