@@ -24,6 +24,9 @@ body {
   content: "";
   display: table;
   clear: both;}
+.desc {
+ text-align: center}
+ 
 </style>
 <body>
 <!-- Photo Grid -->
