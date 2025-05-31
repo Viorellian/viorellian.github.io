@@ -25,13 +25,9 @@ body {
   display: table;
   clear: both;}
 .desc {
- text-align: center
-font-size: 2px;
-}
- .responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
+ text-align: center;
+ font-size: 1px;}
+
 </style>
 <body>
 <!-- Photo Grid -->
