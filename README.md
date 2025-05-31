@@ -98,6 +98,7 @@ body {
 </div>
 
 
+
 <h3 align= "center">Inks</h3>
 
 <body> 
@@ -195,8 +196,11 @@ body {
 <h3 align= "center">About Me</h3>
 <p align="center"> Hello, my name is Ian and I am 26 years old. With 15 years of experience, I love to oil paint. I was trained in landscape painting as a kid, when I turned 22 I began studying the human physique and incorporating it into my paintings. My inspiration comes from being a long time science fiction fan. I also pull inspiration from my dreams. 
 
-<h3 align= "center">Sales</h3>
-<p align="center"> While most of my works are for sale, I have not set the ability to purchase on this website. If you are interested in purchasing please email me. I take commission requests, simply email me with a price you are willing to pay and we can get something going, time to completion can vary from 1-3 months. I prefer commissions as I believe some of my best works come from these requests. 
+<h3 align= "center">Purchasing Details</h3>
+<p align="center">  You are in the right place! Please read these details before contacting.
+<p align="left">FRAMING: All peices are NOT framed unless specified above. If you require framing at the artists discretion it will charged at cost. 
+<p align="left"> SHIPPING: If you are located in LA or OC (United States), I prefer to personally deliver free of charge. All other locales will be charged shipping at cost. 
+<p align="left"> SALES: While most of my works are for sale, I have not set the ability to purchase on this website. Over email, phone or in person; I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). I am okay to recieve any form of safe validated payment platforms. If you are interested in purchasing please email me.
 
   <h3 align= "center">Contact Me</h3>
 <p align="center"> Email: viorelliann@gmail.com 
