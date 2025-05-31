@@ -37,9 +37,17 @@ body {
     <div class="desc">Bernabei's 2025</div>
     <div class="desc">Oil on Wood, 24" x 24", Sold </div>
       <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
+    <div class="desc">Christ on the Storm in the Sea of Galilee</div>
+    <div class="desc">Oil on Wood, 12" x 9", Sold </div>
       <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
+    <div class="desc">Millionth Orbit</div>
+    <div class="desc">Oil on Canvas, 24" x 18", $1000 </div>
       <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
+    <div class="desc">Tallied Reflection</div>
+    <div class="desc">Oil on Canvas, 14" x 18", Commissioned </div>
       <img src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5" >
+    <div class="desc">Stellar Poise</div>
+    <div class="desc">Oil on Canvas, 11" x 14", $250 </div>
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
