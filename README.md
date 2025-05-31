@@ -34,7 +34,7 @@ body {
  <div class="row">
   <div class="column">
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
-    <div class="desc">Bernabei's 2025</div>
+    <div class="desc">Bernabei's 2025 font-style: bold </div>
     <div class="desc">Oil on Wood, 24" x 24", Sold </div>
       <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
     <div class="desc">Christ on the Storm in the Sea of Galilee</div>
@@ -74,12 +74,26 @@ body {
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/bab3c1e0-7253-4abe-9ba2-cc0bb25dac03" >
+   <div class="desc">Mammoth Love</div>
+   <div class="desc">Oil on Canvas, 9" x 12", Commissioned </div>
     <img src="https://github.com/user-attachments/assets/d837e852-e896-43c3-8793-cf3e6cd8c7f1" >
+   <div class="desc">Steins Return</div>
+   <div class="desc">Oil on Canvas, framed in black, 18" x 18", $650 </div>
     <img src="https://github.com/user-attachments/assets/10713375-6f6a-4501-8c2c-8c8702ecfad6" >
+   <div class="desc">Tokyo III</div>
+   <div class="desc">Oil on Canvas, 9" x 12", $120 </div>
     <img src="https://github.com/user-attachments/assets/09d64ad4-b444-4432-aec0-94fcc203d429" >
+   <div class="desc">Wall Maria</div>
+   <div class="desc">Oil on Canvas, 9" x 12", $150 </div>
     <img src="https://github.com/user-attachments/assets/eb2796b1-6bf9-4526-b902-56126b92ca74" >
+   <div class="desc">Bronze</div>
+   <div class="desc">Oil on Canvas, 5" x 5", $60 </div>
     <img src="https://github.com/user-attachments/assets/d381b335-bb8b-4b56-9ea5-0615894e4d21" >
+   <div class="desc">Bricks</div>
+   <div class="desc">Oil on Canvas, 12" x 16", $480 </div>
     <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
+   <div class="desc">Heated Covers</div>
+   <div class="desc">Oil on Canvas, 12" x 9", Sold </div>
   </div>
 </div>
 
