@@ -1,11 +1,6 @@
-
-body {
-font-family: Arial, georgia;
-}
-  
 <h3 align="center">Ian Viorell Ward</h3>
 <p align="center"> Artist 
-<h3 align= "center", font-style= itlic>Paintings</h3>
+<h3 align= "center", font-style= italic>Paintings</h3>
  
 <body> 
 <style>
@@ -204,12 +199,12 @@ body {
 <h3 align= "center">Purchasing Details</h3>
 <p align="center">  You are in the right place! Please read these details before contacting.
 <p align="left">FRAMING: All peices are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
-<p align="left"> SHIPPING: If you are located in LA or OC (United States), I prefer to personally deliver free of charge. All other locales will be charged shipping at cost. 
-<p align="left"> SALES: While most of my works are for sale, I have not set the ability to purchase on this website. Over email, phone or in person; I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). I am okay to recieve any form of safe validated payment platforms. If you are interested in purchasing please email me.
+<p align="left"> SHIPPING: If you are located in LA or OC (United States), I am able to personally deliver free of charge. All other locales will be charged shipping at cost. 
+<p align="left"> SALES: While most of my works are for sale, I have not set the ability to purchase on this website. Over email, phone or in person; I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). Any safe validated payment platforms are okay. If interested please email me.
 
 <h3 align= "center">Requesting a Commission</h3>
 <p align="center"> Please email me with the following information:
-<p align="left"> 1. Size Small(<10"), Medium(<18"), Large(<28")
+<p align="left"> 1. Size; Small (<10"), Medium (<18"), Large (<28")
 <p align="left"> 2. Completion date , S = 1mo., M = 1-2mo., L = 3-4mo.
 <p align="left"> 3. Description of your interest; can be a reference image, famous painting, your own idea, your own theme, a request for emulation or combination of my previous works, etc. 
 <p align="left"> 4. Your budget or anticipated cost for the painting only. Please use the prices here for reference; S = $30-250, M = $125-500, L = $400-1200 
