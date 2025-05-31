@@ -26,11 +26,33 @@ body {
   clear: both;}
 .desc {
  text-align: center}
- 
+ .responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 </style>
 <body>
 <!-- Photo Grid -->
-<div class="row">
+<div clas= "responsive">
+ <div class="row">
   <div class="column">
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
     <div class="desc">Bernabei's 2025</div>
@@ -40,6 +62,7 @@ body {
       <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
       <img src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5" >
   </div>
+  <div clas= "responsive">
   <div class="column">
     <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
     <img src="https://github.com/user-attachments/assets/198384df-99aa-43c7-9b92-523253ea9f57" >
@@ -49,6 +72,7 @@ body {
     <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
      <img src="https://github.com/user-attachments/assets/42018ee3-cdb4-40b6-b6ea-8d5c2205d062" >
   </div>
+   <div clas= "responsive">
   <div class="column">
     <img src="https://github.com/user-attachments/assets/bab3c1e0-7253-4abe-9ba2-cc0bb25dac03" >
     <img src="https://github.com/user-attachments/assets/d837e852-e896-43c3-8793-cf3e6cd8c7f1" >
