@@ -3,7 +3,9 @@
 .desc1 {
  text-align: center;
  font-size: 30px;
-font-style: bold;
+font-family: garamond, serif;
+ font-weight: bold;
+font-style: italic;
 }
  </style>
 <body>
@@ -14,8 +16,8 @@ font-style: bold;
 <style>
 .desc2 {
  text-align: center;
+ font-family: garamond, serif;
  font-size: 13px;
-font-style: Bold;
 }
  </style>
 <body>
@@ -26,7 +28,9 @@ font-style: Bold;
 .desc3 {
  text-align: center;
  font-size: 23px;
-font-style: italic, bold;
+ font-family: garamond, serif;
+font-weight: bold;
+font-style: italic;
 }
  </style>
 <body>
@@ -38,7 +42,7 @@ font-style: italic, bold;
   box-sizing: border-box;}
 body {
   margin: 0;
-  font-family: Garamond;}
+  font-family: Garamond, serif;}
 .header {
   text-align: center;
   padding: 1px;}
@@ -56,7 +60,8 @@ body {
   clear: both;}
 .desc {
  text-align: center;
- font-size: 8px;}
+ font-size: 8px;
+font-family: garamond, serif;}
 
 </style>
 <body>
@@ -183,7 +188,7 @@ body {
   box-sizing: border-box;}
 body {
   margin: 0;
-  font-family: Arial;}
+  font-family: garamond, serif;}
 .header {
   text-align: center;
   padding: 32px;}
@@ -226,7 +231,9 @@ body {
 <style>
 .desc4 {
  text-align: center;
- font-size: 20px;
+ font-size: 23px; 
+ font-family: garamond, serif;
+font-weight: bold;
 font-style: italic;
 }
  </style>
@@ -240,7 +247,9 @@ font-style: italic;
 <style>
 .desc5 {
  text-align: center;
- font-size: 20px;
+ font-size: 23px;
+ font-family: garamond, serif;
+font-weight: bold;
 font-style: italic;
 }
  </style>
@@ -257,7 +266,9 @@ font-style: italic;
 <style>
 .desc6 {
  text-align: center;
- font-size: 20px;
+ font-size: 23px;
+ font-family: garamond, serif;
+font-weight: bold;
 font-style: italic;
 }
  </style>
@@ -273,5 +284,18 @@ font-style: italic;
 <p align="center"> Payment will be required before shipping is initiated, you will recieve images prior to payment in the event you wish to request any edits.
 
  
-  <h3 align= "center">Contact Me</h3>
+  <body> 
+<style>
+.desc6 {
+ text-align: center;
+ font-size: 23px;
+ font-family: garamond, serif;
+font-weight: bold;
+font-style: italic;
+}
+ </style>
+<body>
+ 
+<p class= desc6>Contact Me
+ 
 <p align="center"> Email: viorelliann@gmail.com 
