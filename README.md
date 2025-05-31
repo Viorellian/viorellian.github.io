@@ -3,7 +3,7 @@
 .desc1 {
  text-align: center;
  font-size: 30px;
-font-style: Garamond, Bold;
+font-style: Garamond;
 }
  </style>
 <body>
@@ -15,7 +15,7 @@ font-style: Garamond, Bold;
 .desc2 {
  text-align: center;
  font-size: 12px;
-font-style: Garamond, italic;
+font-style: Garamond;
 }
  </style>
 <body>
@@ -26,7 +26,7 @@ font-style: Garamond, italic;
 .desc3 {
  text-align: center;
  font-size: 20px;
-font-style: Garamond, italic;
+font-style: Garamond;
 }
  </style>
 <body>
