@@ -22,6 +22,8 @@ font-style: italic;
  </style>
 <body>
 <p class= desc2> Artist 
+
+  <!-- PAINTINGS SECTION -->
   
  <body> 
 <style>
@@ -133,7 +135,7 @@ font-family: garamond, serif;}
 </div>
 
 
-
+<!-- INKS SECTION -->
  <body> 
 <style>
 .desc4 {
@@ -189,10 +191,11 @@ body {
 
 </body>
 
+<!-- STUDIES SECTION -->
 
  <body> 
 <style>
-.desc3.2 {
+.desc12 {
  text-align: center;
  font-size: 23px;
  font-family: garamond, serif;
@@ -201,7 +204,7 @@ font-style: italic;
 }
  </style>
 <body>
-<p class= desc3.2>Studies<
+<p class= desc12>Studies
 
 
 <body> 
@@ -249,6 +252,40 @@ body {
   </div>
 </div>
 
+<!-- WATERCOLORS SECTION -->
+ <body> 
+<style>
+.desc13 {
+ text-align: center;
+ font-size: 23px;
+ font-family: garamond, serif;
+font-weight: bold;
+font-style: italic;
+}
+ </style>
+<body>
+<p class= desc13>Watercolor
+
+
+<!-- DIGITAL SECTION -->
+
+ <body> 
+<style>
+.desc14 {
+ text-align: center;
+ font-size: 23px;
+ font-family: garamond, serif;
+font-weight: bold;
+font-style: italic;
+}
+ </style>
+<body>
+<p class= desc14>Digital
+
+
+
+
+ <!-- ABOUT ME SECTION -->
  <body> 
 <style>
 .desc5 {
@@ -274,6 +311,9 @@ font-style: italic;
 <body>
  
 <p class= desc6> Hello, my name is Ian and I am 26 years old. With 15 years of experience, I love to oil paint. I was trained in landscape painting as a kid, when I turned 22 I began studying the human physique and incorporating it into my paintings. My inspiration comes from being a long time science fiction fan. I also pull inspiration from my dreams. 
+
+
+<!-- PURCHASING SECTION -->
 
  <body> 
 <style>
@@ -303,6 +343,10 @@ font-style: italic;
 <p class=desc8>FRAMING: All peices are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
 <p class=desc8> SHIPPING: If you are located in LA or OC (United States), I am able to personally deliver free of charge. All other locales will be charged shipping at cost. 
 <p class=desc8> SALES: While most of my works are for sale, I have not set the ability to purchase on this website. Over email, phone or in person; I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). Any safe validated payment platforms are okay. If interested please email me.
+
+
+<!-- REQUESTING A COMMISSION SECTION -->
+
 
  <body> 
 <style>
@@ -335,6 +379,7 @@ font-style: italic;
 <p class=desc10> 4. Your budget or anticipated cost for the painting only. Please use the prices here for reference; S = $30-250, M = $125-500, L = $400-1200 
 <p class=desc10> Payment will be required before shipping is initiated, you will recieve images prior to payment in the event you wish to request any edits.
 
+ <!-- CONTACT ME SECTION -->
  
   <body> 
 <style>
