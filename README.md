@@ -266,6 +266,48 @@ font-style: italic;
 <body>
 <p class= desc13>Watercolor
 
+<body> 
+<style>
+* {
+  box-sizing: border-box;}
+body {
+  margin: 0;
+  font-family: garamond, serif;}
+.header {
+  text-align: center;
+  padding: 32px;}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 30%;
+  padding: 10px;}
+.column img {
+  margin-top: 12;}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;}
+</style>
+<body>
+
+<div class="row">
+  <div class="column">
+      <img src="https://github.com/user-attachments/assets/23517c0a-515d-4940-8245-93deed4b98ae">
+      <img src="https://github.com/user-attachments/assets/65886c10-5de3-4675-b8f5-b93e67e6f81f">
+    
+  </div>
+  <div class="column">
+  <img src="https://github.com/user-attachments/assets/f30914dd-3899-47c0-8a8f-d223d0df25c4">
+  <img src="https://github.com/user-attachments/assets/440354ce-8356-493b-96ec-22c03cfe6388">
+   
+ 
+  </div>
+  <div class="column">
+  <img src="https://github.com/user-attachments/assets/8df43d43-ce89-4d0d-a5ed-bad997eefe2e">
+  </div>
+</div>
+
 
 <!-- DIGITAL SECTION -->
 
