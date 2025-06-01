@@ -134,7 +134,18 @@ font-family: garamond, serif;}
 
 
 
-<h3 align= "center">Inks</h3>
+ <body> 
+<style>
+.desc3.1 {
+ text-align: center;
+ font-size: 23px;
+ font-family: garamond, serif;
+font-weight: bold;
+font-style: italic;
+}
+ </style>
+<body>
+<p class= desc3.1>Inks<
 
 <body> 
 <style>
@@ -179,7 +190,18 @@ body {
 </body>
 
 
-<h3 align= "center">Studies</h3>
+ <body> 
+<style>
+.desc3.2 {
+ text-align: center;
+ font-size: 23px;
+ font-family: garamond, serif;
+font-weight: bold;
+font-style: italic;
+}
+ </style>
+<body>
+<p class= desc3.2>Studies<
 
 
 <body> 
@@ -239,11 +261,11 @@ font-style: italic;
  </style>
 <body>
  
-<p class= desc4>About Me
+<p class= desc4>About Me<
 
  <body> 
 <style>
-.desc4 {
+.desc4.1 {
  text-align: center;
  font-size: 15px;
  font-family: garamond, serif;
@@ -251,7 +273,7 @@ font-style: italic;
  </style>
 <body>
  
-<p class= desc4> Hello, my name is Ian and I am 26 years old. With 15 years of experience, I love to oil paint. I was trained in landscape painting as a kid, when I turned 22 I began studying the human physique and incorporating it into my paintings. My inspiration comes from being a long time science fiction fan. I also pull inspiration from my dreams. 
+<p class= desc4.1> Hello, my name is Ian and I am 26 years old. With 15 years of experience, I love to oil paint. I was trained in landscape painting as a kid, when I turned 22 I began studying the human physique and incorporating it into my paintings. My inspiration comes from being a long time science fiction fan. I also pull inspiration from my dreams. 
 
  <body> 
 <style>
@@ -269,7 +291,7 @@ font-style: italic;
 
  <body> 
 <style>
-.desc5 {
+.desc5.1 {
  text-align: left;
  font-size: 15px;
  font-family: garamond, serif;
@@ -277,10 +299,10 @@ font-style: italic;
  </style>
 <body>
  
-<p class=desc5>  You are in the right place! Please read these details before contacting.
-<p class=desc5>FRAMING: All peices are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
+<p class=desc5.1>  You are in the right place! Please read these details before contacting.
+<p class=desc5.1>FRAMING: All peices are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
 <p class=desc5> SHIPPING: If you are located in LA or OC (United States), I am able to personally deliver free of charge. All other locales will be charged shipping at cost. 
-<p class=desc5> SALES: While most of my works are for sale, I have not set the ability to purchase on this website. Over email, phone or in person; I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). Any safe validated payment platforms are okay. If interested please email me.
+<p class=desc5.1> SALES: While most of my works are for sale, I have not set the ability to purchase on this website. Over email, phone or in person; I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). Any safe validated payment platforms are okay. If interested please email me.
 
  <body> 
 <style>
@@ -298,7 +320,7 @@ font-style: italic;
 
  <body> 
 <style>
-.desc6 {
+.desc6.1 {
  text-align: left;
  font-size: 15px;
  font-family: garamond, serif;
@@ -306,12 +328,12 @@ font-style: italic;
  </style>
 <body>
  
-<p class=desc6> Please email me with the following information:
-<p class=desc6> 1. Size; Small (<10"), Medium (<18"), Large (<28")
-<p class=desc6> 2. Completion date , S = 1mo., M = 1-2mo., L = 3-4mo.
-<p class=desc6> 3. Description of your interest; can be a reference image, famous painting, your own idea, your own theme, a request for emulation or combination of my previous works, etc. 
-<p class=desc6> 4. Your budget or anticipated cost for the painting only. Please use the prices here for reference; S = $30-250, M = $125-500, L = $400-1200 
-<p class=desc6> Payment will be required before shipping is initiated, you will recieve images prior to payment in the event you wish to request any edits.
+<p class=desc6.1> Please email me with the following information:
+<p class=desc6.1> 1. Size; Small (<10"), Medium (<18"), Large (<28")
+<p class=desc6.1> 2. Completion date , S = 1mo., M = 1-2mo., L = 3-4mo.
+<p class=desc6.1> 3. Description of your interest; can be a reference image, famous painting, your own idea, your own theme, a request for emulation or combination of my previous works, etc. 
+<p class=desc6.1> 4. Your budget or anticipated cost for the painting only. Please use the prices here for reference; S = $30-250, M = $125-500, L = $400-1200 
+<p class=desc6.1> Payment will be required before shipping is initiated, you will recieve images prior to payment in the event you wish to request any edits.
 
  
   <body> 
@@ -330,11 +352,11 @@ font-style: italic;
 
   <body> 
 <style>
-.desc7 {
+.desc7.1 {
  text-align: center;
  font-size: 15px;
  font-family: garamond, serif;
 }
  </style>
 <body>
-<p class=desc7> Email: viorelliann@gmail.com 
+<p class=desc7.1> Email: viorelliann@gmail.com 
