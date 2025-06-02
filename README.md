@@ -112,7 +112,7 @@ font-family: garamond, serif;}
    <div class="desc">Superficial Understanding</div>
    <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $1050  </div>
     <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
-   <div class="desc">Of course I still Love You</div>
+   <div class="desc">Of Course I still Love You</div>
    <div class="desc">Oil on Canvas, 8" x 10", Sold </div>
      <img src="https://github.com/user-attachments/assets/42018ee3-cdb4-40b6-b6ea-8d5c2205d062" >
     <div class="desc">Sweet Escape</div>
@@ -123,7 +123,7 @@ font-family: garamond, serif;}
    <div class="desc">Mammoth Love</div>
    <div class="desc">Oil on Canvas, 9" x 12", Commissioned </div>
     <img src="https://github.com/user-attachments/assets/d837e852-e896-43c3-8793-cf3e6cd8c7f1" >
-   <div class="desc">Steins Return</div>
+   <div class="desc">Stein's Return</div>
    <div class="desc">Oil on Canvas, framed in black, 18" x 18", $650 </div>
     <img src="https://github.com/user-attachments/assets/10713375-6f6a-4501-8c2c-8c8702ecfad6" >
    <div class="desc">Tokyo III</div>
