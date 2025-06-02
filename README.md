@@ -40,7 +40,7 @@ font-style: italic;
 <style>
 .desc4 {
  text-align: center;
- font-size: 14px;
+ font-size: 12px;
  font-family: garamond, serif;;
 }
  </style>
@@ -151,7 +151,6 @@ font-family: garamond, serif;}
  text-align: center;
  font-size: 25px;
  font-family: garamond, serif;
-font-weight: bold;
 font-style: italic;
 }
  </style>
@@ -208,7 +207,6 @@ body {
  text-align: center;
  font-size: 25px;
  font-family: garamond, serif;
-font-weight: bold;
 font-style: italic;
 }
  </style>
@@ -268,7 +266,6 @@ body {
  text-align: center;
  font-size: 25px;
  font-family: garamond, serif;
-font-weight: bold;
 font-style: italic;
 }
  </style>
@@ -324,7 +321,6 @@ body {
  text-align: center;
  font-size: 25px;
  font-family: garamond, serif;
-font-weight: bold;
 font-style: italic;
 }
  </style>
@@ -414,7 +410,6 @@ body {
  text-align: center;
  font-size: 25px; 
  font-family: garamond, serif;
-font-weight: bold;
 font-style: italic;
 }
  </style>
@@ -443,7 +438,6 @@ font-style: italic;
  text-align: center;
  font-size: 25px;
  font-family: garamond, serif;
-font-weight: bold;
 font-style: italic;
 }
  </style>
@@ -476,7 +470,6 @@ font-style: italic;
  text-align: center;
  font-size: 25px;
  font-family: garamond, serif;
-font-weight: bold;
 font-style: italic;
 }
  </style>
