@@ -2,7 +2,7 @@
 <style>
 .desc1 {
  text-align: center;
- font-size: 28px;
+ font-size: 35px;
 font-family: garamond, serif;
  font-weight: bolder;;
 }
@@ -16,7 +16,7 @@ font-family: garamond, serif;
 .desc2 {
  text-align: center;
  font-family: garamond, serif;
- font-size: 15px;
+ font-size: 18px;
 }
  </style>
 <body>
@@ -30,7 +30,6 @@ font-family: garamond, serif;
  text-align: center;
  font-size: 30px;
  font-family: garamond, serif;
-font-weight: bold;
 font-style: italic;
 }
  </style>
