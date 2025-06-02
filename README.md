@@ -72,7 +72,7 @@ body {
   clear: both;}
 .desc {
  text-align: center;
- font-size: 10px;
+ font-size: 12px;
 font-family: garamond, serif;}
 
 </style>
