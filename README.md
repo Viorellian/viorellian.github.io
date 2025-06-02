@@ -521,5 +521,15 @@ font-style: italic;
 <body>
 <p class=desc16> Email: viorelliann@gmail.com 
 
+<body> 
+<style>
+.desc17 {
+ text-align: center;
+ font-size: 13px;
+ font-family: garamond, serif;
+}
+ </style>
+<body>
+<a class=desc17 href="PrivacyPolicy">Privacy Policy</a>
+<a class=desc17 href="Terms&Conditions.md">Terms & Conditions</a>
 
-<a href="PrivacyPolicy">Privacy Policy</a>
