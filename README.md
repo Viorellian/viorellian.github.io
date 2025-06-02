@@ -28,7 +28,7 @@ font-family: garamond, serif;
 <style>
 .desc3 {
  text-align: center;
- font-size: 25px;
+ font-size: 30px;
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
