@@ -45,7 +45,7 @@ font-style: italic;
 }
  </style>
 <body>
-<p class= desc4> To zoom in, right click or hold down on the image then download/save.
+<p class= desc4> To zoom in, right click or hold down on the image then select download/save. Use landscape mode for easier viewing on smart phone.
  
 <body> 
 <style>
