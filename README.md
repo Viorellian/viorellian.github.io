@@ -16,7 +16,7 @@ font-family: garamond, serif;
 .desc2 {
  text-align: center;
  font-family: garamond, serif;
- font-size: 13px;
+ font-size: 15px;
 }
  </style>
 <body>
@@ -28,7 +28,7 @@ font-family: garamond, serif;
 <style>
 .desc3 {
  text-align: center;
- font-size: 23px;
+ font-size: 25px;
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
@@ -150,7 +150,7 @@ font-family: garamond, serif;}
 <style>
 .desc5 {
  text-align: center;
- font-size: 23px;
+ font-size: 25px;
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
@@ -207,7 +207,7 @@ body {
 <style>
 .desc6 {
  text-align: center;
- font-size: 23px;
+ font-size: 25px;
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
@@ -267,7 +267,7 @@ body {
 <style>
 .desc7 {
  text-align: center;
- font-size: 23px;
+ font-size: 25px;
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
@@ -323,7 +323,7 @@ body {
 <style>
 .desc8 {
  text-align: center;
- font-size: 23px;
+ font-size: 25px;
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
@@ -386,7 +386,6 @@ body {
   <img src="https://github.com/user-attachments/assets/6325f000-6309-4ebb-9869-43ff5c4e80d8">
   <img src="https://github.com/user-attachments/assets/3674910f-f22c-42cf-be71-2cc9740cac47">
   <img src="https://github.com/user-attachments/assets/32d47872-2b59-44fc-ad4c-fa591a51e028">
-  <img src="https://github.com/user-attachments/assets/8adea3cf-04a0-4f76-9901-24003db09dfd">
   
  
   </div>
@@ -403,6 +402,7 @@ body {
   <img src="https://github.com/user-attachments/assets/10903cea-194a-4860-9139-41aba5552f5e">
   <img src="https://github.com/user-attachments/assets/da86dc5b-fd79-4a39-919e-c8c12ad1eb8a">
   <img src="https://github.com/user-attachments/assets/1ca55b6e-820a-43bf-8959-c2317fa8a69e">
+  <img src="https://github.com/user-attachments/assets/8adea3cf-04a0-4f76-9901-24003db09dfd">
 
   
   </div>
@@ -413,7 +413,7 @@ body {
 <style>
 .desc9 {
  text-align: center;
- font-size: 23px; 
+ font-size: 25px; 
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
@@ -442,7 +442,7 @@ font-style: italic;
 <style>
 .desc11 {
  text-align: center;
- font-size: 23px;
+ font-size: 25px;
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
@@ -475,7 +475,7 @@ font-style: italic;
 <style>
 .desc13 {
  text-align: center;
- font-size: 23px;
+ font-size: 25px;
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
@@ -508,7 +508,7 @@ font-style: italic;
 <style>
 .desc15 {
  text-align: center;
- font-size: 23px;
+ font-size: 25px;
  font-family: garamond, serif;
 font-weight: bold;
 font-style: italic;
