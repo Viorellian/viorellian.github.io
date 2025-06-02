@@ -4,8 +4,7 @@
  text-align: center;
  font-size: 28px;
 font-family: garamond, serif;
- font-weight: bolder;
-font-style: italic;
+ font-weight: bolder;;
 }
  </style>
 <body>
