@@ -521,6 +521,9 @@ font-style: italic;
 <body>
 <p class=desc16> Email: viorelliann@gmail.com 
 
+
+
+
 <body> 
 <style>
 .desc17 {
@@ -531,5 +534,5 @@ font-style: italic;
  </style>
 <body>
 <a class=desc17 href="PrivacyPolicy">Privacy Policy</a>
-<a class=desc17 href="Terms Conditions.md">Terms & Conditions</a>
+<a class=desc17 href="TermsConditions.md">Terms & Conditions</a>
 
