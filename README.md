@@ -520,3 +520,6 @@ font-style: italic;
  </style>
 <body>
 <p class=desc16> Email: viorelliann@gmail.com 
+
+
+<a href="PrivacyPolicy">Privacy Policy</a>
