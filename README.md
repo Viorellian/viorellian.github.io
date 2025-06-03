@@ -532,6 +532,7 @@ font-style: italic;
 }
  </style>
 <body>
-<p class=desc17 href="PrivacyPolicy">Privacy Policy</p>
-<p class=desc17 href="terms1.md">Terms & Conditions</p>
+ <p class=desc17> __________________
+<a class=desc17 href="PrivacyPolicy">Privacy Policy</a>
+<a class=desc17 href="1TermsConditions.md">Terms & Conditions</a>
 
