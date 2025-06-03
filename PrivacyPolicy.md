@@ -89,9 +89,9 @@ font-family: garamond, serif;
 }
  </style>
 <body>
-<p class= desc4> While no purchases are executed on viorellian.gitub.io these terms and conditions apply to any purchasing executed by the customer party and Ian Viorell Ward (email:viorelliann@gmail.com). 
+<p class= desc3> While no purchases are executed on viorellian.gitub.io these terms and conditions apply to any purchasing executed by the customer party and Ian Viorell Ward (email:viorelliann@gmail.com). 
   
-<p class= desc4>DISCLAIMER, Only the contact name and email above will request or discuss payment, purchasing, shipping, refund or return matters with the customer party. Contact by any other entity regarding these matters is false and is not fall under the umbrella of these terms and conditions. 
+<p class= desc3>DISCLAIMER, Only the contact name and email above will request or discuss payment, purchasing, shipping, refund or return matters with the customer party. Contact by any other entity regarding these matters is false and is not fall under the umbrella of these terms and conditions. 
   
 <p class= desc3> TERMS AND CONDITIONS, I have the right to change the price of goods and shipping at any time, and have the right to correct pricing errors that may occur. I am not responsible for damage that occurs during the shipping process. If insurance is purchased for shippments the responsibility for damage may fall under said provider of insurance. 
   
