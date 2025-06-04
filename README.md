@@ -112,7 +112,7 @@ font-family: garamond, serif;}
    <div class="desc">Superficial Understanding</div>
    <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $1050  </div>
     <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
-   <div class="desc">Of Course I still Love You</div>
+   <div class="desc">Of Course I Still Love You</div>
    <div class="desc">Oil on Canvas, 8" x 10", Sold </div>
      <img src="https://github.com/user-attachments/assets/42018ee3-cdb4-40b6-b6ea-8d5c2205d062" >
     <div class="desc">Sweet Escape</div>
@@ -427,7 +427,7 @@ font-style: italic;
  </style>
 <body>
  
-<p class= desc10> Hello, my name is Ian and I am 26 years old. With 15 years of experience, I love to oil paint. I was trained in landscape painting as a kid, when I turned 22 I began studying the human physique and incorporating it into my paintings. My inspiration comes from being a long time science fiction fan. I also pull inspiration from my dreams. 
+<p class= desc10> Hi, my name is Ian. 26 years old, with 16 years of experience in oil paints. I trained in landscape painting as a kid and when I was 22 I studied the human physique. My inspiration hails from being a long time science fiction fan (blade runnner, star wars, dune, foundation); In addition, I use music and dreaming to brainstorm the ideas for my paintings, then I apply my acadmeic understanding of composition. My favorite artists are Rembrandt, Frank Farzetta and @0011_888 (artist for Umai clothing). I enjoy commission requests, I believe they are my forte, so... you know what to do.
 
 
 <!-- PURCHASING SECTION -->
@@ -491,8 +491,8 @@ font-style: italic;
 <p class=desc14> 1. Size; Small (<10"), Medium (<18"), Large (<28")
 <p class=desc14> 2. Completion date , S = 1mo., M = 1-2mo., L = 3-4mo.
 <p class=desc14> 3. Description of your interest; can be a reference image, famous painting, your own idea, your own theme, a request for emulation or combination of my previous works, etc. 
-<p class=desc14> 4. Your budget or anticipated cost for the painting only. Please use the prices here for reference; S = $30-250, M = $125-500, L = $400-1200 
-<p class=desc14> Payment will be required before shipping is initiated, you will recieve images prior to payment in the event you wish to request any edits.
+<p class=desc14> 4. Your budget or anticipated cost for the painting only. Please use the prices here for reference; S = $20-250, M = $100-500, L = $300-1200 
+<p class=desc14> Payment will be required before shipping is initiated. I will share pictures of the peice prior to payment in the event you wish to request any edits.
 
  <!-- CONTACT ME SECTION -->
  
