@@ -80,8 +80,8 @@ font-family: garamond, serif;}
  <div class="row">
   <div class="column">
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
-    <div class="desc">Bernabei's 2025</div>
-    <div class="desc">Oil on Wood, 24" x 24", Sold </div>
+    <div class="desc">Bernabei 2025 Wedding Gift </div>
+    <div class="desc">Oil on Wood, 24" x 24" </div>
       <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
     <div class="desc">Christ on the Storm in the Sea of Galilee</div>
     <div class="desc">Oil on Wood, 12" x 9", Sold </div>
