@@ -439,7 +439,7 @@ font-style: italic;
  </style>
 <body>
  
-<p class= desc10> Hi, my name is Ian. 26 years old, with 16 years of experience in oil paints. I trained in landscape painting as a kid and when I was 22 I studied the human physique. My inspiration hails from being a long time science fiction fan (blade runnner, star wars, dune, foundation); In addition, I use music and dreaming to brainstorm the ideas for my paintings, then I apply my acadmeic understanding of composition. My favorite artists are Rembrandt, Frank Farzetta and @0011_888 (artist for Umai clothing). I enjoy commission requests, I believe they are my forte, so... you know what to do.
+<p class= desc10> Hi, my name is Ian. 26 years old, with 16 years of experience with oil paints. I trained in landscape painting as a kid and when I was 22 I studied the human physique. My inspiration hails from being a long time science fiction fan (blade runnner, star wars, dune, foundation); In addition, I use music and dreaming to brainstorm the ideas for my paintings, then I apply my academic understanding of composition. My favorite artists are Rembrandt, Frank Farzetta and @0011_888 (artist for Umai clothing). I enjoy commission requests, I believe they are my forte, so... you know what to do.
 
 
 <!-- PURCHASING SECTION -->
