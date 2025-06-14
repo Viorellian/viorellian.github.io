@@ -136,7 +136,7 @@ font-family: garamond, serif;}
    <div class="desc">Oil on Canvas, 5" x 5", $60 </div>
     <img src="https://github.com/user-attachments/assets/d381b335-bb8b-4b56-9ea5-0615894e4d21" >
    <div class="desc">Bricks</div>
-   <div class="desc">Oil on Canvas, 12" x 16", $480 </div>
+   <div class="desc">Oil on Canvas, 12" x 16", Not For Sale </div>
     <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
    <div class="desc">Heated Covers</div>
    <div class="desc">Oil on Canvas, 12" x 9", Sold </div>
