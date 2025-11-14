@@ -79,6 +79,9 @@ font-family: garamond, serif;}
 <!-- Photo Grid -->
  <div class="row">
   <div class="column">
+      <img src=https://github.com/user-attachments/assets/b8182f25-4ac2-42f4-b898-fda351f36e82) >
+    <div class="desc">The Storm</div>
+    <div class="desc">Master Copy, Oil on Wood, 14" x 11", $3000 </div>
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
     <div class="desc">Pillars of Love, Wedding Gift for the Bernabei's </div>
     <div class="desc">Oil on Wood, 24" x 24" </div>
