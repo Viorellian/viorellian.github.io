@@ -45,7 +45,7 @@ font-style: italic;
 }
  </style>
 <body>
-<p class= desc4> To zoom in, right click or hold down on the image then select download/save. Use landscape mode for easier viewing on smart phone. All paintings are originals.
+<p class= desc4> To zoom in, right click or hold down on the image then select download/save. Use landscape mode for easier viewing on smart phone. All paintings are originals, unless labeled as 'Master Copy'.
  
 <body> 
 <style>
@@ -77,43 +77,45 @@ font-family: garamond, serif;}
 </style>
 <body>
 <!-- Photo Grid -->
+<!-- Each section below are columns top to bottom here is left to right on the website, make sure to add new images evenly to each column to avoid disorginized grid, check website before adding an image--!>
+ 
  <div class="row">
   <div class="column">
-      <img src=https://github.com/user-attachments/assets/b8182f25-4ac2-42f4-b898-fda351f36e82) >
+      <img src="https://github.com/user-attachments/assets/b8182f25-4ac2-42f4-b898-fda351f36e82" >
     <div class="desc">The Storm</div>
-    <div class="desc">Master Copy, Oil on Wood, 14" x 11", $3000 </div>
+    <div class="desc">Master Copy, Oil on Wood, 12" x 9", $3000 </div>
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
     <div class="desc">Pillars of Love, Wedding Gift for the Bernabei's </div>
     <div class="desc">Oil on Wood, 24" x 24" </div>
       <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
     <div class="desc">Christ on the Storm in the Sea of Galilee</div>
-    <div class="desc">Oil on Wood, 12" x 9", Sold </div>
+    <div class="desc">Master Copy, Oil on Wood, 12" x 9", Sold </div>
       <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
     <div class="desc">Millionth Orbit</div>
-    <div class="desc">Oil on Canvas, 24" x 18", $1000 </div>
+    <div class="desc">Oil on Canvas, 24" x 18", Not For Sale </div>
       <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
     <div class="desc">Tallied Reflection</div>
     <div class="desc">Oil on Canvas, 14" x 18", Commissioned </div>
       <img src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5" >
     <div class="desc">Stellar Poise</div>
-    <div class="desc">Oil on Canvas, 11" x 14", $250 </div>
+    <div class="desc">Oil on Canvas, 11" x 14", $700 </div>
   </div>
   <div class="column">
     <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
    <div class="desc">Lovely Language</div>
-   <div class="desc">Oil on Canvas, 22" x 28", $1200 </div>
+   <div class="desc">Oil on Canvas, 22" x 28", Not For Sale </div>
     <img src="https://github.com/user-attachments/assets/198384df-99aa-43c7-9b92-523253ea9f57" >
    <div class="desc">Entanglement</div>
-   <div class="desc">Oil on Canvas, 11" x 14", $180 </div>
+   <div class="desc">Oil on Canvas, 11" x 14", $550 </div>
     <img src="https://github.com/user-attachments/assets/07205f6f-ece7-469a-8740-91330366ba31" >
    <div class="desc">Mushroom Samba</div>
-   <div class="desc">Oil on Canvas, matted and framed in white, 9" x 12", $700 </div>
+   <div class="desc">Oil on Canvas, matted and framed in white, 9" x 12", $1300 </div>
     <img src="https://github.com/user-attachments/assets/87770f4f-9a3d-4efd-a4eb-235a0d717731" >
    <div class="desc">Connected</div>
    <div class="desc">Oil on Canvas, 16" x 20", Commissioned </div>
     <img src="https://github.com/user-attachments/assets/ab2fb400-7138-4233-a76c-d73f75a08d09" >
    <div class="desc">Superficial Understanding</div>
-   <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $1050  </div>
+   <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $1500  </div>
     <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
    <div class="desc">Of Course I Still Love You</div>
    <div class="desc">Oil on Canvas, 8" x 10", Sold </div>
@@ -130,10 +132,10 @@ font-family: garamond, serif;}
    <div class="desc">Oil on Canvas, framed in black, 18" x 18", $650 </div>
     <img src="https://github.com/user-attachments/assets/10713375-6f6a-4501-8c2c-8c8702ecfad6" >
    <div class="desc">Tokyo III</div>
-   <div class="desc">Oil on Canvas, 9" x 12", $120 </div>
+   <div class="desc">Oil on Canvas, 9" x 12", $400 </div>
     <img src="https://github.com/user-attachments/assets/09d64ad4-b444-4432-aec0-94fcc203d429" >
    <div class="desc">Wall Maria</div>
-   <div class="desc">Oil on Canvas, 9" x 12", $150 </div>
+   <div class="desc">Oil on Canvas, 9" x 12", $300 </div>
     <img src="https://github.com/user-attachments/assets/eb2796b1-6bf9-4526-b902-56126b92ca74" >
    <div class="desc">Bronze</div>
    <div class="desc">Oil on Canvas, 5" x 5", $60 </div>
@@ -470,10 +472,11 @@ font-style: italic;
  </style>
 <body>
  
-<p class=desc12>  You are in the right place! Please read these details before contacting.
-<p class=desc12>FRAMING: All peices are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
+<p class=desc12> SALES: I have not set the ability to purchase on this website. Please request to purchase via email, phone or in person; (Hi Ian!, I would like to purchase "NAME". Do I qualitfy for a discount?. Let me know.) 
+<p class=desc12> DISCOUNTS: Friends = 40% off, First time Buyer = 20% off 
+<p class=desc12> FRAMING: All peices are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
 <p class=desc12> SHIPPING: If you are located in LA or OC (United States), I am able to personally deliver free of charge. All other locales will be charged shipping at cost. 
-<p class=desc12> SALES: While most of my works are for sale, I have not set the ability to purchase on this website. Over email, phone or in person; I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). Any safe validated payment platforms are okay. If interested please email me.
+<p class=desc12> PAYMENT: I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). Any safe validated payment platforms are okay. If interested please email me.
 
 
 <!-- REQUESTING A COMMISSION SECTION -->
