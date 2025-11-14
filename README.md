@@ -96,6 +96,9 @@ font-family: garamond, serif;}
       <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
     <div class="desc">Tallied Reflection</div>
     <div class="desc">Oil on Canvas, 14" x 18", Commissioned </div>
+     <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
+   <div class="desc">Of Course I Still Love You</div>
+   <div class="desc">Oil on Canvas, 8" x 10", Sold </div>
      
   </div>
   <div class="column">
@@ -117,9 +120,6 @@ font-family: garamond, serif;}
    <img src="https://github.com/user-attachments/assets/ab2fb400-7138-4233-a76c-d73f75a08d09" >
    <div class="desc">Superficial Understanding</div>
    <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $1500  </div>
-    <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
-   <div class="desc">Of Course I Still Love You</div>
-   <div class="desc">Oil on Canvas, 8" x 10", Sold </div>
      <img src="https://github.com/user-attachments/assets/42018ee3-cdb4-40b6-b6ea-8d5c2205d062" >
     <div class="desc">Sweet Escape</div>
     <div class="desc">Oil on Canvas, 22" x 28", $1050 </div>
