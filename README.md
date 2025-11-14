@@ -87,23 +87,21 @@ font-family: garamond, serif;}
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
     <div class="desc">Pillars of Love, Wedding Gift for the Bernabei's </div>
     <div class="desc">Oil on Wood, 24" x 24" </div>
-      <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
-    <div class="desc">Christ on the Storm in the Sea of Galilee</div>
-    <div class="desc">Master Copy, Oil on Wood, 12" x 9", Sold </div>
+      <img src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5" >
+    <div class="desc">Stellar Poise</div>
+    <div class="desc">Oil on Canvas, 11" x 14", $700 </div>
       <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
     <div class="desc">Millionth Orbit</div>
     <div class="desc">Oil on Canvas, 24" x 18", Not For Sale </div>
       <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
     <div class="desc">Tallied Reflection</div>
     <div class="desc">Oil on Canvas, 14" x 18", Commissioned </div>
-      <img src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5" >
-    <div class="desc">Stellar Poise</div>
-    <div class="desc">Oil on Canvas, 11" x 14", $700 </div>
+     
   </div>
   <div class="column">
-    <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
-   <div class="desc">Lovely Language</div>
-   <div class="desc">Oil on Canvas, 22" x 28", Not For Sale </div>
+   <img src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112" >
+    <div class="desc">Christ on the Storm in the Sea of Galilee</div>
+    <div class="desc">Master Copy, Oil on Wood, 12" x 9", Sold </div>
     <img src="https://github.com/user-attachments/assets/198384df-99aa-43c7-9b92-523253ea9f57" >
    <div class="desc">Entanglement</div>
    <div class="desc">Oil on Canvas, 11" x 14", $550 </div>
@@ -113,7 +111,10 @@ font-family: garamond, serif;}
     <img src="https://github.com/user-attachments/assets/87770f4f-9a3d-4efd-a4eb-235a0d717731" >
    <div class="desc">Connected</div>
    <div class="desc">Oil on Canvas, 16" x 20", Commissioned </div>
-    <img src="https://github.com/user-attachments/assets/ab2fb400-7138-4233-a76c-d73f75a08d09" >
+    <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
+   <div class="desc">Lovely Language</div>
+   <div class="desc">Oil on Canvas, 22" x 28", Not For Sale </div>
+   <img src="https://github.com/user-attachments/assets/ab2fb400-7138-4233-a76c-d73f75a08d09" >
    <div class="desc">Superficial Understanding</div>
    <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $1500  </div>
     <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
@@ -127,24 +128,25 @@ font-family: garamond, serif;}
     <img src="https://github.com/user-attachments/assets/bab3c1e0-7253-4abe-9ba2-cc0bb25dac03" >
    <div class="desc">Mammoth Love</div>
    <div class="desc">Oil on Canvas, 9" x 12", Commissioned </div>
-    <img src="https://github.com/user-attachments/assets/d837e852-e896-43c3-8793-cf3e6cd8c7f1" >
-   <div class="desc">Stein's Return</div>
-   <div class="desc">Oil on Canvas, framed in black, 18" x 18", $650 </div>
     <img src="https://github.com/user-attachments/assets/10713375-6f6a-4501-8c2c-8c8702ecfad6" >
    <div class="desc">Tokyo III</div>
    <div class="desc">Oil on Canvas, 9" x 12", $400 </div>
     <img src="https://github.com/user-attachments/assets/09d64ad4-b444-4432-aec0-94fcc203d429" >
    <div class="desc">Wall Maria</div>
    <div class="desc">Oil on Canvas, 9" x 12", $300 </div>
-    <img src="https://github.com/user-attachments/assets/eb2796b1-6bf9-4526-b902-56126b92ca74" >
+   <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
+   <div class="desc">Heated Covers</div>
+   <div class="desc">Oil on Canvas, 12" x 9", Sold </div>
+   <img src="https://github.com/user-attachments/assets/d837e852-e896-43c3-8793-cf3e6cd8c7f1" >
+   <div class="desc">Stein's Return</div>
+   <div class="desc">Oil on Canvas, framed in black, 18" x 18", $650 </div>
+   <img src="https://github.com/user-attachments/assets/eb2796b1-6bf9-4526-b902-56126b92ca74" >
    <div class="desc">Bronze</div>
    <div class="desc">Oil on Canvas, 5" x 5", $60 </div>
     <img src="https://github.com/user-attachments/assets/d381b335-bb8b-4b56-9ea5-0615894e4d21" >
    <div class="desc">Bricks</div>
    <div class="desc">Oil on Canvas, 12" x 16", Not For Sale </div>
-    <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
-   <div class="desc">Heated Covers</div>
-   <div class="desc">Oil on Canvas, 12" x 9", Sold </div>
+    
   </div>
 </div>
 
