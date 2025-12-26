@@ -45,7 +45,7 @@ font-style: italic;
 }
  </style>
 <body>
-<p class= desc4> To zoom in, right click or hold down on the image then select download/save. Use landscape mode for easier viewing on smart phone. All paintings are originals, unless labeled as 'Master Copy'.
+<p class= desc4> To zoom in, right click or hold down on the image then select download/save. Use landscape mode for easier viewing on smart phone. All paintings are originals, unless labeled as 'Master Copy'. [INSTAGRAM] (https://www.instagram.com/viorellian/?next=%2F)
  
 <body> 
 <style>
