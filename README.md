@@ -99,6 +99,9 @@ font-family: garamond, serif;}
      <img src="https://github.com/user-attachments/assets/012ae9c3-3000-4d22-9e73-ed077707d14b" >
    <div class="desc">Of Course I Still Love You</div>
    <div class="desc">Oil on Canvas, 8" x 10", Sold </div>
+       <img src="https://github.com/user-attachments/assets/d381b335-bb8b-4b56-9ea5-0615894e4d21" >
+   <div class="desc">Bricks</div>
+   <div class="desc">Oil on Canvas, 12" x 16", Not For Sale </div>
      
   </div>
   <div class="column">
@@ -146,9 +149,7 @@ font-family: garamond, serif;}
    <img src="https://github.com/user-attachments/assets/eb2796b1-6bf9-4526-b902-56126b92ca74" >
    <div class="desc">Bronze</div>
    <div class="desc">Oil on Canvas, 5" x 5", $60 </div>
-    <img src="https://github.com/user-attachments/assets/d381b335-bb8b-4b56-9ea5-0615894e4d21" >
-   <div class="desc">Bricks</div>
-   <div class="desc">Oil on Canvas, 12" x 16", Not For Sale </div>
+
     
   </div>
 </div>
