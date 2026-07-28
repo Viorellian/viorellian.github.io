@@ -125,7 +125,7 @@ font-family: garamond, serif;}
     <div class="desc">Oil on Canvas, 22" x 28", $1050 </div>
   </div>
   <div class="column">
-   <img src="https://github.com/user-attachments/assets/bab3c1e0-7253-4abe-9ba2-cc0bb25dac03" >
+   <img src="https://github.com/user-attachments/assets/cfcc42a6-b081-476b-9558-4b89492f8e3c" >
    <div class="desc">Cast</div>
    <div class="desc">Oil on Wood Panel, Rendition from Ariel Agemian's original ink, 8" x 10", $2500 </div>
     <img src="https://github.com/user-attachments/assets/bab3c1e0-7253-4abe-9ba2-cc0bb25dac03" >
