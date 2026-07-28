@@ -83,7 +83,7 @@ font-family: garamond, serif;}
   <div class="column">
       <img src="https://github.com/user-attachments/assets/b8182f25-4ac2-42f4-b898-fda351f36e82" >
     <div class="desc">The Storm</div>
-    <div class="desc">Master Copy, Oil on Wood, 12" x 9", $3000 </div>
+    <div class="desc">Master Copy, Oil on Wood, 12" x 9", Sold </div>
       <img src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69" >
     <div class="desc">Pillars of Love, Wedding Gift for the Bernabei's </div>
     <div class="desc">Oil on Wood, 24" x 24" </div>
@@ -116,7 +116,7 @@ font-family: garamond, serif;}
    <div class="desc">Oil on Canvas, 16" x 20", Commissioned </div>
     <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
    <div class="desc">Lovely Language</div>
-   <div class="desc">Oil on Canvas, 22" x 28", Not For Sale </div>
+   <div class="desc">Oil on Canvas, 22" x 28", $1500 </div>
    <img src="https://github.com/user-attachments/assets/ab2fb400-7138-4233-a76c-d73f75a08d09" >
    <div class="desc">Superficial Understanding</div>
    <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $1500  </div>
@@ -446,7 +446,7 @@ font-style: italic;
  </style>
 <body>
  
-<p class= desc10> Hi, my name is Ian. 26 years old, with 16 years of experience with oil paints. I trained in landscape painting as a kid and when I was 22 I studied the human physique. My inspiration hails from being a long time science fiction fan (blade runnner, star wars, dune, foundation); In addition, I use music and dreaming to brainstorm the ideas for my paintings, then I apply my academic understanding of composition. My favorite artists are Rembrandt, Frank Farzetta and @0011_888 (artist for Umai clothing). I enjoy commission requests, I believe they are my forte, so... you know what to do.
+<p class= desc10> Hi, my name is Ian. 27 years old, with 17 years of experience with oil paints. I trained in landscape painting as a kid and when I was 22 I studied the human physique. My inspiration hails from being a long time science fiction fan (blade runner, star wars, dune, foundation, contact); In addition, I use music and dreaming to brainstorm the ideas for my paintings, then I apply my academic understanding of composition. My favorite artists are Rembrandt, Frank Farzetta and @0011_888 (artist for Umai clothing). I enjoy commission requests, I believe they are my forte. 
 
 
 <!-- PURCHASING SECTION -->
@@ -476,9 +476,9 @@ font-style: italic;
  
 <p class=desc12> SALES: I have not set the ability to purchase on this website. Please request to purchase via email, phone or in person; (Hi Ian!, I would like to purchase "NAME". Do I qualitfy for a discount?. Let me know.) 
 <p class=desc12> DISCOUNTS: Friends = 40% off, First time Buyer = 20% off 
-<p class=desc12> FRAMING: All peices are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
+<p class=desc12> FRAMING: All pieces are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
 <p class=desc12> SHIPPING: If you are located in LA or OC (United States), I am able to personally deliver free of charge. All other locales will be charged shipping at cost. 
-<p class=desc12> PAYMENT: I will accept Zelle, wire transfers, Venmo, Apple Pay or cash (if in person). Any safe validated payment platforms are okay. If interested please email me.
+<p class=desc12> PAYMENT: I will accept cash, check, Zelle, wire transfers, Venmo, or Apple Pay. Any safe validated payment platforms are okay. If interested please email me.
 
 
 <!-- REQUESTING A COMMISSION SECTION -->
@@ -507,12 +507,8 @@ font-style: italic;
  </style>
 <body>
  
-<p class=desc14> Please email me with the following information:
-<p class=desc14> 1. Size; Small (<10"), Medium (<18"), Large (<28")
-<p class=desc14> 2. Completion date , S = 1mo., M = 1-2mo., L = 3-4mo.
-<p class=desc14> 3. Description of your interest; can be a reference image, famous painting, your own idea, your own theme, a request for emulation or combination of my previous works, etc. 
-<p class=desc14> 4. Your budget or anticipated cost for the painting only. Please use the prices here for reference; S = $20-250, M = $100-500, L = $300-1200 
-<p class=desc14> Payment will be required before shipping is initiated. I will share pictures of the peice prior to payment in the event you wish to request any edits.
+<p class=desc14> [Commissions are a $50 minimum] Please email me (viorelliann@gmail.com) a description of your interest; can be a reference image, famous painting, your own idea, your own theme, a request for master copy or combination of my previous works, etc. 
+<p class=desc14> Payment will be required before shipping is initiated or during a physical delivery. I will share pictures of the piece prior to payment in the event you wish to request any edits.
 
  <!-- CONTACT ME SECTION -->
  
