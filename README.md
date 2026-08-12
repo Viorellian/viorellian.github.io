@@ -478,7 +478,7 @@ font-style: italic;
  </style>
 <body>
  
-<p class=desc12> SALES: I have not set the ability to purchase on this website. Please request to purchase via email, phone or in person; (Hi Ian!, I would like to purchase "NAME". Do I qualitfy for a discount?. Let me know.) 
+<p class=desc12> SALES: Please request to purchase via email ( viorelliann@gmail.com ), phone or in person; (Hi Ian!, I would like to purchase "NAME". Do I qualitfy for a discount?. Let me know.) 
 <p class=desc12> DISCOUNTS: Friends = 40% off, First time Buyer = 20% off 
 <p class=desc12> FRAMING: All pieces are NOT framed unless specified above. If you require framing at the artists discretion it will be charged at cost. 
 <p class=desc12> SHIPPING: If you are located in LA or OC (United States), I am able to personally deliver free of charge. All other locales will be charged shipping at cost. 
