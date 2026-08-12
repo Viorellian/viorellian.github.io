@@ -89,10 +89,10 @@ font-family: garamond, serif;}
     <div class="desc">Oil on Wood, 24" x 24" </div>
       <img src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5" >
     <div class="desc">Stellar Poise</div>
-    <div class="desc">Oil on Canvas, 11" x 14", $700 </div>
+    <div class="desc">Oil on Canvas, 11" x 14", $950 </div>
       <img src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44" >
     <div class="desc">Millionth Orbit</div>
-    <div class="desc">Oil on Canvas, 24" x 18", Not For Sale </div>
+    <div class="desc">Oil on Canvas, 24" x 18", $3500 </div>
       <img src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3" >
     <div class="desc">Tallied Reflection</div>
     <div class="desc">Oil on Canvas, 14" x 18", Commissioned </div>
@@ -110,22 +110,22 @@ font-family: garamond, serif;}
     <div class="desc">Master Copy, Oil on Wood, 12" x 9", Sold </div>
     <img src="https://github.com/user-attachments/assets/198384df-99aa-43c7-9b92-523253ea9f57" >
    <div class="desc">Entanglement</div>
-   <div class="desc">Oil on Canvas, 11" x 14", $550 </div>
+   <div class="desc">Oil on Canvas, 11" x 14", $800 </div>
     <img src="https://github.com/user-attachments/assets/07205f6f-ece7-469a-8740-91330366ba31" >
    <div class="desc">Mushroom Samba</div>
-   <div class="desc">Oil on Canvas, matted and framed in white, 9" x 12", $1300 </div>
+   <div class="desc">Oil on Canvas, matted and framed in white, 9" x 12", $1700 </div>
     <img src="https://github.com/user-attachments/assets/87770f4f-9a3d-4efd-a4eb-235a0d717731" >
    <div class="desc">Connected</div>
    <div class="desc">Oil on Canvas, 16" x 20", Commissioned </div>
     <img src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55" >
    <div class="desc">Lovely Language</div>
-   <div class="desc">Oil on Canvas, 22" x 28", $1500 </div>
+   <div class="desc">Oil on Canvas, 22" x 28", $1800 </div>
    <img src="https://github.com/user-attachments/assets/ab2fb400-7138-4233-a76c-d73f75a08d09" >
    <div class="desc">Superficial Understanding</div>
-   <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $1500  </div>
+   <div class="desc">Background is Oil on Canvas, foreground includes official Neon Genesis Evangelion cel, matted and framed in black, 9.5" x 10.5", $2400  </div>
      <img src="https://github.com/user-attachments/assets/42018ee3-cdb4-40b6-b6ea-8d5c2205d062" >
     <div class="desc">Sweet Escape</div>
-    <div class="desc">Oil on Canvas, 22" x 28", $1050 </div>
+    <div class="desc">Oil on Canvas, 22" x 28", $1300 </div>
   </div>
   <div class="column">
    <img src="https://github.com/user-attachments/assets/cfcc42a6-b081-476b-9558-4b89492f8e3c" >
@@ -136,19 +136,19 @@ font-family: garamond, serif;}
    <div class="desc">Oil on Canvas, 9" x 12", Commissioned </div>
     <img src="https://github.com/user-attachments/assets/10713375-6f6a-4501-8c2c-8c8702ecfad6" >
    <div class="desc">Tokyo III</div>
-   <div class="desc">Oil on Canvas, 9" x 12", $400 </div>
+   <div class="desc">Oil on Canvas, 9" x 12", $500 </div>
     <img src="https://github.com/user-attachments/assets/09d64ad4-b444-4432-aec0-94fcc203d429" >
    <div class="desc">Wall Maria</div>
-   <div class="desc">Oil on Canvas, 9" x 12", $300 </div>
+   <div class="desc">Oil on Canvas, 9" x 12", $400 </div>
    <img src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22" >
    <div class="desc">Heated Covers</div>
    <div class="desc">Oil on Canvas, 12" x 9", Sold </div>
    <img src="https://github.com/user-attachments/assets/d837e852-e896-43c3-8793-cf3e6cd8c7f1" >
    <div class="desc">Stein's Return</div>
-   <div class="desc">Oil on Canvas, framed in black, 18" x 18", $650 </div>
+   <div class="desc">Oil on Canvas, framed in black, 18" x 18", $800 </div>
    <img src="https://github.com/user-attachments/assets/eb2796b1-6bf9-4526-b902-56126b92ca74" >
    <div class="desc">Bronze</div>
-   <div class="desc">Oil on Canvas, 5" x 5", $60 </div>
+   <div class="desc">Oil on Canvas, 5" x 5", $80 </div>
 
     
   </div>
