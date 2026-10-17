@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ian Viorell Ward — Demo Gallery Zoom</title>
+    <style>
+      :root {
+        --bg: #f8f7f2;
+        --panel: #f2efe7;
+        --text: #2d2b2a;
+        --muted: #4e4a46;
+        --border: rgba(42, 38, 34, 0.15);
+        --shadow: rgba(18, 17, 15, 0.12);
+        --button-bg: #1c1a19;
+        --button-text: #f8f7f2;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family: Garamond, "Times New Roman", serif;
+      }
+
+      body {
+        line-height: 1.5;
+      }
+
+      .page {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 24px 18px 72px;
+      }
+
+      .title {
+        text-align: center;
+        font-size: clamp(2.2rem, 4vw, 3.7rem);
+        font-weight: 700;
+        letter-spacing: 0.01em;
+        margin: 18px 0 6px;
+      }
+
+      .subtitle {
+        text-align: center;
+        font-size: clamp(1.1rem, 1.8vw, 1.5rem);
+        margin: 0 0 30px;
+        font-weight: 400;
+      }
+
+      .section-heading {
+        text-align: center;
+        font-size: clamp(1.8rem, 2.8vw, 2.8rem);
+        font-style: italic;
+        margin: 38px 0 18px;
+        font-weight: 500;
+      }
+
+      .gallery-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(220px, 1fr));
+        gap: 18px 16px;
+        align-items: start;
+      }
+
+      .gallery-column {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+      }
+
+      .art-card {
+        width: 100%;
+      }
+
+      .art-image {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        border: 1px solid var(--border);
+        background: #eae5dc;
+        cursor: pointer;
+        transition: transform 0.18s ease, box-shadow 0.18s ease;
+      }
+
+      .art-image:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 18px var(--shadow);
+      }
+
+      .art-title {
+        text-align: center;
+        margin-top: 10px;
+        font-size: 1.05rem;
+        font-weight: 600;
+      }
+
+      .art-meta {
+        text-align: center;
+        margin: 2px 0 0;
+        font-size: 0.96rem;
+        color: var(--muted);
+      }
+
+      .modal {
+        position: fixed;
+        inset: 0;
+        background: rgba(20, 18, 16, 0.66);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        padding: 26px;
+        z-index: 50;
+      }
+
+      .modal.open {
+        display: flex;
+      }
+
+      .modal-content {
+        position: relative;
+        width: min(980px, 92vw);
+        max-height: 90vh;
+        background: #f6f4ef;
+        border: 1px solid rgba(0, 0, 0, 0.14);
+        box-shadow: 0 18px 44px rgba(0, 0, 0, 0.24);
+        overflow: hidden;
+      }
+
+      .modal-close {
+        position: absolute;
+        top: 12px;
+        right: 14px;
+        border: none;
+        background: rgba(0,0,0,0.75);
+        color: white;
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        font-size: 1.4rem;
+        cursor: pointer;
+        z-index: 2;
+      }
+
+      .modal-body {
+        display: grid;
+        grid-template-columns: minmax(0, 1.5fr) minmax(240px, 0.8fr);
+        max-height: 90vh;
+      }
+
+      .modal-image-wrap {
+        background: #e7e2d9;
+        padding: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 320px;
+      }
+
+      .modal-image {
+        display: block;
+        max-width: 100%;
+        max-height: 72vh;
+        object-fit: contain;
+      }
+
+      .modal-side {
+        padding: 30px 24px 24px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 14px;
+      }
+
+      .modal-title {
+        margin: 0;
+        font-size: clamp(1.7rem, 2vw, 2.5rem);
+        font-weight: 700;
+      }
+
+      .modal-meta {
+        font-size: 1.05rem;
+        color: var(--muted);
+        margin: 0;
+      }
+
+      .inquiry-btn {
+        appearance: none;
+        border: 1px solid var(--button-bg);
+        background: var(--button-bg);
+        color: var(--button-text);
+        padding: 12px 18px;
+        font: inherit;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: opacity 0.2s ease;
+        width: fit-content;
+      }
+
+      .inquiry-btn:hover {
+        opacity: 0.92;
+      }
+
+      .note {
+        font-size: 0.9rem;
+        color: var(--muted);
+        line-height: 1.5;
+        margin: 0;
+      }
+
+      @media (max-width: 840px) {
+        .gallery-grid {
+          grid-template-columns: repeat(2, minmax(200px, 1fr));
+        }
+
+        .modal-body {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 540px) {
+        .gallery-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .page {
+          padding-left: 14px;
+          padding-right: 14px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <h1 class="title">Ian Viorell Ward</h1>
+      <p class="subtitle">Artist</p>
+
+      <h2 class="section-heading">Paintings</h2>
+
+      <div class="gallery-grid">
+        <div class="gallery-column">
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/b8182f25-4ac2-42f4-b898-fda351f36e82"
+              alt="The Storm"
+              data-title="The Storm"
+              data-meta="Master Copy, Oil on Wood, 12&quot; x 9&quot;, Sold"
+              data-full="https://github.com/user-attachments/assets/b8182f25-4ac2-42f4-b898-fda351f36e82"
+            />
+            <div class="art-title">The Storm</div>
+            <div class="art-meta">Master Copy, Oil on Wood, 12" x 9", Sold</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69"
+              alt="Pillars of Love, Wedding Gift for the Bernabei's"
+              data-title="Pillars of Love, Wedding Gift for the Bernabei's"
+              data-meta="Oil on Wood, 24&quot; x 24&quot;"
+              data-full="https://github.com/user-attachments/assets/ee8db348-d8f6-4830-928e-b9c9035e6c69"
+            />
+            <div class="art-title">Pillars of Love, Wedding Gift for the Bernabei's</div>
+            <div class="art-meta">Oil on Wood, 24" x 24"</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5"
+              alt="Stellar Poise"
+              data-title="Stellar Poise"
+              data-meta="Oil on Canvas, 11&quot; x 14&quot;, $950"
+              data-full="https://github.com/user-attachments/assets/8744748b-40f1-4856-bfda-9b9632ba5dc5"
+            />
+            <div class="art-title">Stellar Poise</div>
+            <div class="art-meta">Oil on Canvas, 11" x 14", $950</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44"
+              alt="Millionth Orbit"
+              data-title="Millionth Orbit"
+              data-meta="Oil on Canvas, 24&quot; x 18&quot;, $3500"
+              data-full="https://github.com/user-attachments/assets/64cf449b-8009-4a89-a609-c825d9da8f44"
+            />
+            <div class="art-title">Millionth Orbit</div>
+            <div class="art-meta">Oil on Canvas, 24" x 18", $3500</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3"
+              alt="Tallied Reflection"
+              data-title="Tallied Reflection"
+              data-meta="Oil on Canvas, 14&quot; x 18&quot;, Commissioned"
+              data-full="https://github.com/user-attachments/assets/924fda2b-bbb7-4f6d-975b-56abaf0596b3"
+            />
+            <div class="art-title">Tallied Reflection</div>
+            <div class="art-meta">Oil on Canvas, 14" x 18", Commissioned</div>
+          </div>
+        </div>
+
+        <div class="gallery-column">
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112"
+              alt="Christ on the Storm in the Sea of Galilee"
+              data-title="Christ on the Storm in the Sea of Galilee"
+              data-meta="Master Copy, Oil on Wood, 12&quot; x 9&quot;, Sold"
+              data-full="https://github.com/user-attachments/assets/ac82b7bc-a398-42e1-9c15-c7e0e82bb112"
+            />
+            <div class="art-title">Christ on the Storm in the Sea of Galilee</div>
+            <div class="art-meta">Master Copy, Oil on Wood, 12" x 9", Sold</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/198384df-99aa-43c7-9b92-523253ea9f57"
+              alt="Entanglement"
+              data-title="Entanglement"
+              data-meta="Oil on Canvas, 11&quot; x 14&quot;, $800"
+              data-full="https://github.com/user-attachments/assets/198384df-99aa-43c7-9b92-523253ea9f57"
+            />
+            <div class="art-title">Entanglement</div>
+            <div class="art-meta">Oil on Canvas, 11" x 14", $800</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/07205f6f-ece7-469a-8740-91330366ba31"
+              alt="Mushroom Samba"
+              data-title="Mushroom Samba"
+              data-meta="Oil on Canvas, matted and framed in white, 9&quot; x 12&quot;, $1700"
+              data-full="https://github.com/user-attachments/assets/07205f6f-ece7-469a-8740-91330366ba31"
+            />
+            <div class="art-title">Mushroom Samba</div>
+            <div class="art-meta">Oil on Canvas, matted and framed in white, 9" x 12", $1700</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/87770f4f-9a3d-4efd-a4eb-235a0d717731"
+              alt="Connected"
+              data-title="Connected"
+              data-meta="Oil on Canvas, 16&quot; x 20&quot;, Commissioned"
+              data-full="https://github.com/user-attachments/assets/87770f4f-9a3d-4efd-a4eb-235a0d717731"
+            />
+            <div class="art-title">Connected</div>
+            <div class="art-meta">Oil on Canvas, 16" x 20", Commissioned</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55"
+              alt="Lovely Language"
+              data-title="Lovely Language"
+              data-meta="Oil on Canvas, 22&quot; x 28&quot;, $1800"
+              data-full="https://github.com/user-attachments/assets/4e223c70-059a-4681-ad26-4c8517536d55"
+            />
+            <div class="art-title">Lovely Language</div>
+            <div class="art-meta">Oil on Canvas, 22" x 28", $1800</div>
+          </div>
+        </div>
+
+        <div class="gallery-column">
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/cfcc42a6-b081-476b-9558-4b89492f8e3c"
+              alt="Cast"
+              data-title="Cast"
+              data-meta="Oil on Wood Panel, Rendition from Ariel Agemian's original ink, 8&quot; x 10&quot;, $2500"
+              data-full="https://github.com/user-attachments/assets/cfcc42a6-b081-476b-9558-4b89492f8e3c"
+            />
+            <div class="art-title">Cast</div>
+            <div class="art-meta">Oil on Wood Panel, Rendition from Ariel Agemian's original ink, 8" x 10", $2500</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/bab3c1e0-7253-4abe-9ba2-cc0bb25dac03"
+              alt="Mammoth Love"
+              data-title="Mammoth Love"
+              data-meta="Oil on Canvas, 9&quot; x 12&quot;, Commissioned"
+              data-full="https://github.com/user-attachments/assets/bab3c1e0-7253-4abe-9ba2-cc0bb25dac03"
+            />
+            <div class="art-title">Mammoth Love</div>
+            <div class="art-meta">Oil on Canvas, 9" x 12", Commissioned</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/10713375-6f6a-4501-8c2c-8c8702ecfad6"
+              alt="Tokyo III"
+              data-title="Tokyo III"
+              data-meta="Oil on Canvas, 9&quot; x 12&quot;, $500"
+              data-full="https://github.com/user-attachments/assets/10713375-6f6a-4501-8c2c-8c8702ecfad6"
+            />
+            <div class="art-title">Tokyo III</div>
+            <div class="art-meta">Oil on Canvas, 9" x 12", $500</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/09d64ad4-b444-4432-aec0-94fcc203d429"
+              alt="Wall Maria"
+              data-title="Wall Maria"
+              data-meta="Oil on Canvas, 9&quot; x 12&quot;, $400"
+              data-full="https://github.com/user-attachments/assets/09d64ad4-b444-4432-aec0-94fcc203d429"
+            />
+            <div class="art-title">Wall Maria</div>
+            <div class="art-meta">Oil on Canvas, 9" x 12", $400</div>
+          </div>
+
+          <div class="art-card">
+            <img
+              class="art-image"
+              src="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22"
+              alt="Heated Covers"
+              data-title="Heated Covers"
+              data-meta="Oil on Canvas, 12&quot; x 9&quot;, Sold"
+              data-full="https://github.com/user-attachments/assets/6f9016f8-c95f-41d0-8831-d16e462a9f22"
+            />
+            <div class="art-title">Heated Covers</div>
+            <div class="art-meta">Oil on Canvas, 12" x 9", Sold</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal" id="zoomModal" aria-hidden="true">
+      <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <button class="modal-close" type="button" id="closeModal" aria-label="Close">×</button>
+        <div class="modal-body">
+          <div class="modal-image-wrap">
+            <img class="modal-image" id="modalImage" src="" alt="Expanded artwork preview" />
+          </div>
+          <div class="modal-side">
+            <h3 class="modal-title" id="modalTitle">Artwork Title</h3>
+            <p class="modal-meta" id="modalMeta">Artwork details</p>
+            <button class="inquiry-btn" type="button" id="inquiryButton">Request Price / Ask About This Piece</button>
+            <p class="note">This button is a visual placeholder for the upcoming inquiry feature.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const modal = document.getElementById('zoomModal');
+      const modalImage = document.getElementById('modalImage');
+      const modalTitle = document.getElementById('modalTitle');
+      const modalMeta = document.getElementById('modalMeta');
+      const closeModal = document.getElementById('closeModal');
+      const inquiryButton = document.getElementById('inquiryButton');
+
+      document.querySelectorAll('.art-image').forEach((image) => {
+        image.addEventListener('click', () => {
+          modalImage.src = image.dataset.full || image.src;
+          modalImage.alt = image.alt || image.dataset.title || 'Artwork preview';
+          modalTitle.textContent = image.dataset.title || 'Artwork';
+          modalMeta.textContent = image.dataset.meta || '';
+          modal.classList.add('open');
+          modal.setAttribute('aria-hidden', 'false');
+        });
+      });
+
+      closeModal.addEventListener('click', () => {
+        modal.classList.remove('open');
+        modal.setAttribute('aria-hidden', 'true');
+      });
+
+      modal.addEventListener('click', (event) => {
+        if (event.target === modal) {
+          modal.classList.remove('open');
+          modal.setAttribute('aria-hidden', 'true');
+        }
+      });
+
+      inquiryButton.addEventListener('click', () => {
+        // Placeholder — intentionally does nothing for now.
+      });
+    </script>
+  </body>
+</html>
